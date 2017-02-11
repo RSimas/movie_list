@@ -13,6 +13,7 @@ int main(){
 
 	printf("%sA Beautiful Mind (2001)\n", KRED);
 	printf("%sAliens (1986)\n", KRED);
+	printf("%sAllied (2016)\n", KGRN);
 	printf("%sArrival (2016)\n", KGRN);
 	printf("%sCasablanca (1942)\n", KRED);
 	printf("%sCitizen Kane (1941)\n", KRED);
@@ -22,7 +23,6 @@ int main(){
 	printf("%sFlorence Foster Jenkins (2016)\n", KGRN);
 	printf("%sHacksaw Ridge (2016)\n", KGRN);
 	printf("%sHidden Figures (2016)\n", KGRN);
-	printf("%sJackie (2016)\n", KRED);
 	printf("%sLa La Land (2016)\n", KGRN);
 	printf("%sLion (2016)\n", KRED);
 	printf("%sManchester By The Sea (2016)\n", KRED);
@@ -32,7 +32,7 @@ int main(){
 	printf("%sPassengers (2016)\n", KGRN);
 	printf("%sRogue One: A Star Wars Story (2016)\n", KRED);
 	printf("%sStorks (2016)\n", KGRN);
-	printf("%sThe Jungle Book (2016)\n", KRED);
+	printf("%sThe Jungle Book (2016)\n", KGRN);
 	printf("%sThe Girl On The Train (2016)\n", KGRN);
 
 	printf("\n\n%sMovies watched in 2016:\n\n", KNRM);
