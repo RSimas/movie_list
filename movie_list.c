@@ -18,22 +18,22 @@ int main(){
 	printf("%sCasablanca (1942)\n", KRED);
 	printf("%sCitizen Kane (1941)\n", KRED);
 	printf("%sDoctor Strange (2016)\n", KRED);
-	printf("%sElle (2016)\n", KRED);
 	printf("%sFantastic Beasts And Where To Find Them (2016)\n", KRED);
 	printf("%sFlorence Foster Jenkins (2016)\n", KGRN);
 	printf("%sHacksaw Ridge (2016)\n", KGRN);
 	printf("%sHidden Figures (2016)\n", KGRN);
 	printf("%sLa La Land (2016)\n", KGRN);
-	printf("%sLion (2016)\n", KRED);
 	printf("%sManchester By The Sea (2016)\n", KRED);
 	printf("%sMoana (2016)\n", KRED);
 	printf("%sMoonlight (2016)\n", KGRN);
 	printf("%sNocturnal Animals (2016)\n", KRED);
 	printf("%sPassengers (2016)\n", KGRN);
+	printf("%sPirates Of The Caribbean: On Stranger Tides (2011)\n", KRED);
 	printf("%sRogue One: A Star Wars Story (2016)\n", KRED);
 	printf("%sStorks (2016)\n", KGRN);
 	printf("%sThe Jungle Book (2016)\n", KGRN);
 	printf("%sThe Girl On The Train (2016)\n", KGRN);
+	printf("%sThe Great Wall (2016)\n", KRED);
 
 	printf("\n\n%sMovies watched in 2016:\n\n", KNRM);
 
