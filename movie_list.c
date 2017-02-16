@@ -17,7 +17,7 @@ int main(){
 	printf("%sArrival (2016)\n", KGRN);
 	printf("%sCasablanca (1942)\n", KRED);
 	printf("%sCitizen Kane (1941)\n", KRED);
-	printf("%sDoctor Strange (2016)\n", KRED);
+	printf("%sDoctor Strange (2016)\n", KGRN);
 	printf("%sFantastic Beasts And Where To Find Them (2016)\n", KRED);
 	printf("%sFlorence Foster Jenkins (2016)\n", KGRN);
 	printf("%sHacksaw Ridge (2016)\n", KGRN);
