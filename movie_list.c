@@ -12,7 +12,6 @@ int main(){
 	printf("\n\n%sMovies watched in 2017:\n\n", KNRM);
 
 	printf("%sA Beautiful Mind (2001)\n", KRED);
-	printf("%sAliens (1986)\n", KRED);
 	printf("%sAllied (2016)\n", KGRN);
 	printf("%sArrival (2016)\n", KGRN);
 	printf("%sCasablanca (1942)\n", KRED);
