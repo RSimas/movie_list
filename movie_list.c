@@ -25,7 +25,7 @@ int main(){
 	printf("%sManchester By The Sea (2016)\n", KRED);
 	printf("%sMoana (2016)\n", KRED);
 	printf("%sMoonlight (2016)\n", KGRN);
-	printf("%sNocturnal Animals (2016)\n", KRED);
+	printf("%sNocturnal Animals (2016)\n", KGRN);
 	printf("%sPassengers (2016)\n", KGRN);
 	printf("%sPirates Of The Caribbean: On Stranger Tides (2011)\n", KRED);
 	printf("%sRogue One: A Star Wars Story (2016)\n", KRED);
