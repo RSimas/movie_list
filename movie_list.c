@@ -22,7 +22,7 @@ int main(){
 	printf("%sHacksaw Ridge (2016)\n", KGRN);
 	printf("%sHidden Figures (2016)\n", KGRN);
 	printf("%sLa La Land (2016)\n", KGRN);
-	printf("%sManchester By The Sea (2016)\n", KRED);
+	printf("%sManchester By The Sea (2016)\n", KGRN);
 	printf("%sMoana (2016)\n", KRED);
 	printf("%sMoonlight (2016)\n", KGRN);
 	printf("%sNocturnal Animals (2016)\n", KGRN);
