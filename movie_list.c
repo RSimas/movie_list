@@ -19,6 +19,7 @@ int main(){
 	printf("%sDoctor Strange (2016)\n", KGRN);
 	printf("%sFantastic Beasts And Where To Find Them (2016)\n", KRED);
 	printf("%sFlorence Foster Jenkins (2016)\n", KGRN);
+	printf("%sGun Shy (2000)\n", KGRN);
 	printf("%sHacksaw Ridge (2016)\n", KGRN);
 	printf("%sHidden Figures (2016)\n", KGRN);
 	printf("%sLa La Land (2016)\n", KGRN);
