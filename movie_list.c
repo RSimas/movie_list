@@ -24,7 +24,7 @@ int main(){
 	printf("%sHidden Figures (2016)\n", KGRN);
 	printf("%sLa La Land (2016)\n", KGRN);
 	printf("%sManchester By The Sea (2016)\n", KGRN);
-	printf("%sMoana (2016)\n", KRED);
+	printf("%sMoana (2016)\n", KGRN);
 	printf("%sMoonlight (2016)\n", KGRN);
 	printf("%sNocturnal Animals (2016)\n", KGRN);
 	printf("%sPassengers (2016)\n", KGRN);
@@ -34,6 +34,7 @@ int main(){
 	printf("%sThe Jungle Book (2016)\n", KGRN);
 	printf("%sThe Girl On The Train (2016)\n", KGRN);
 	printf("%sThe Great Wall (2016)\n", KRED);
+	printf("%sYour Name (2016)\n", KRED);
 
 	printf("\n\n%sMovies watched in 2016:\n\n", KNRM);
 
