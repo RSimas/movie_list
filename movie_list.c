@@ -18,7 +18,7 @@ int main(){
 	printf("%sCasablanca (1942)\n", KRED);
 	printf("%sCitizen Kane (1941)\n", KRED);
 	printf("%sDoctor Strange (2016)\n", KGRN);
-	printf("%sFantastic Beasts And Where To Find Them (2016)\n", KRED);
+	printf("%sFantastic Beasts And Where To Find Them (2016)\n", KGRN);
 	printf("%sFlorence Foster Jenkins (2016)\n", KGRN);
 	printf("%sGun Shy (2000)\n", KGRN);
 	printf("%sHacksaw Ridge (2016)\n", KGRN);
@@ -33,7 +33,7 @@ int main(){
 	printf("%sRogue One: A Star Wars Story (2016)\n", KRED);
 	printf("%sStorks (2016)\n", KGRN);
 	printf("%sThe Jungle Book (2016)\n", KGRN);
-	printf("%sThe Garden Of Words (2013)\n", KRED);
+	printf("%sThe Garden Of Words (2013)\n", KGRN);
 	printf("%sThe Girl On The Train (2016)\n", KGRN);
 	printf("%sThe Great Wall (2016)\n", KRED);
 	printf("%sThe Next Three Days (2010)\n", KGRN);
