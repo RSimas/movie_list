@@ -23,6 +23,7 @@ int main(){
 	printf("%sGun Shy (2000)\n", KGRN);
 	printf("%sHacksaw Ridge (2016)\n", KGRN);
 	printf("%sHidden Figures (2016)\n", KGRN);
+	printf("%sKong: Skull Island (2017)\n", KRED);
 	printf("%sLa La Land (2016)\n", KGRN);
 	printf("%sLogan (2017)\n", KGRN);
 	printf("%sManchester By The Sea (2016)\n", KGRN);
@@ -31,12 +32,14 @@ int main(){
 	printf("%sNocturnal Animals (2016)\n", KGRN);
 	printf("%sPassengers (2016)\n", KGRN);
 	printf("%sPirates Of The Caribbean: On Stranger Tides (2011)\n", KGRN);
+	printf("%sPower Rangers (2017)\n"; KRED);
 	printf("%sRogue One: A Star Wars Story (2016)\n", KRED);
 	printf("%sStorks (2016)\n", KGRN);
 	printf("%sThe Jungle Book (2016)\n", KGRN);
 	printf("%sThe Garden Of Words (2013)\n", KGRN);
 	printf("%sThe Girl On The Train (2016)\n", KGRN);
 	printf("%sThe Great Wall (2016)\n", KRED);
+	printf("%sThe LEGO Batman Movie (2017)\n", KRED);
 	printf("%sThe Next Three Days (2010)\n", KGRN);
 	printf("%sYour Name (2016)\n", KGRN);
 
