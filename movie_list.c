@@ -33,7 +33,7 @@ int main(){
 	printf("%sPassengers (2016)\n", KGRN);
 	printf("%sPirates Of The Caribbean: On Stranger Tides (2011)\n", KGRN);
 	printf("%sPower Rangers (2017)\n"; KRED);
-	printf("%sRogue One: A Star Wars Story (2016)\n", KRED);
+	printf("%sRogue One: A Star Wars Story (2016)\n", KGRN);
 	printf("%sStorks (2016)\n", KGRN);
 	printf("%sThe Jungle Book (2016)\n", KGRN);
 	printf("%sThe Garden Of Words (2013)\n", KGRN);
