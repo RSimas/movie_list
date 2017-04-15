@@ -15,14 +15,17 @@ int main(){
 	printf("%sA Beautiful Mind (2001)\n", KRED);
 	printf("%sAllied (2016)\n", KGRN);
 	printf("%sArrival (2016)\n", KGRN);
+	printf("%sCars 3 (2017)\n", KRED);
 	printf("%sCasablanca (1942)\n", KRED);
 	printf("%sCitizen Kane (1941)\n", KRED);
 	printf("%sDoctor Strange (2016)\n", KGRN);
 	printf("%sFantastic Beasts And Where To Find Them (2016)\n", KGRN);
 	printf("%sFlorence Foster Jenkins (2016)\n", KGRN);
+	printf("%sGuardians Of The Galaxy Vol. 2 (2017)\n", KRED);
 	printf("%sGun Shy (2000)\n", KGRN);
 	printf("%sHacksaw Ridge (2016)\n", KGRN);
 	printf("%sHidden Figures (2016)\n", KGRN);
+	printf("%sKillers (2010)\n", KGRN);
 	printf("%sKong: Skull Island (2017)\n", KRED);
 	printf("%sLa La Land (2016)\n", KGRN);
 	printf("%sLogan (2017)\n", KGRN);
@@ -31,9 +34,11 @@ int main(){
 	printf("%sMoonlight (2016)\n", KGRN);
 	printf("%sNocturnal Animals (2016)\n", KGRN);
 	printf("%sPassengers (2016)\n", KGRN);
+	printf("%sPirates Of The Caribbean: Dead Men Tell No Tales (2017)\n", KRED);
 	printf("%sPirates Of The Caribbean: On Stranger Tides (2011)\n", KGRN);
 	printf("%sPower Rangers (2017)\n"; KRED);
 	printf("%sRogue One: A Star Wars Story (2016)\n", KGRN);
+	printf("%sSpider-Man: Homecoming (2017)\n", KRED);
 	printf("%sStorks (2016)\n", KGRN);
 	printf("%sThe Jungle Book (2016)\n", KGRN);
 	printf("%sThe Garden Of Words (2013)\n", KGRN);
@@ -41,6 +46,8 @@ int main(){
 	printf("%sThe Great Wall (2016)\n", KRED);
 	printf("%sThe LEGO Batman Movie (2017)\n", KRED);
 	printf("%sThe Next Three Days (2010)\n", KGRN);
+	printf("%sWar For The Planet Of The Apes (2017)\n", KRED);
+	printf("%sWonder Woman (2017)\n", KRED);
 	printf("%sYour Name (2016)\n", KGRN);
 
 	printf("\n\n%sMovies watched in 2016:\n\n", KNRM);
