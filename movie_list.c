@@ -32,6 +32,7 @@ int main(){
 	printf("%sManchester By The Sea (2016)\n", KGRN);
 	printf("%sMoana (2016)\n", KGRN);
 	printf("%sMoonlight (2016)\n", KGRN);
+	printf("%sMystic River (2003)\n", KGRN);
 	printf("%sNocturnal Animals (2016)\n", KGRN);
 	printf("%sPassengers (2016)\n", KGRN);
 	printf("%sPirates Of The Caribbean: Dead Men Tell No Tales (2017)\n", KRED);
