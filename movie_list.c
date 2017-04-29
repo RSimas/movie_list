@@ -21,6 +21,7 @@ int main(){
 	printf("%sDoctor Strange (2016)\n", KGRN);
 	printf("%sFantastic Beasts And Where To Find Them (2016)\n", KGRN);
 	printf("%sFlorence Foster Jenkins (2016)\n", KGRN);
+	printf("%sGet Out (2017)\n", KRED);
 	printf("%sGuardians Of The Galaxy Vol. 2 (2017)\n", KRED);
 	printf("%sGun Shy (2000)\n", KGRN);
 	printf("%sHacksaw Ridge (2016)\n", KGRN);
@@ -48,6 +49,8 @@ int main(){
 	printf("%sThe LEGO Batman Movie (2017)\n", KRED);
 	printf("%sThe Next Three Days (2010)\n", KGRN);
 	printf("%sWar For The Planet Of The Apes (2017)\n", KRED);
+	printf("%sWhy Him? (2016)\n", KGRN);
+	printf("%sWolf Children (2012)\n", KGRN);
 	printf("%sWonder Woman (2017)\n", KRED);
 	printf("%sYour Name (2016)\n", KGRN);
 
