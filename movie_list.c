@@ -49,6 +49,7 @@ int main(){
 	printf("%sThe LEGO Batman Movie (2017)\n", KRED);
 	printf("%sThe Next Three Days (2010)\n", KGRN);
 	printf("%sWar For The Planet Of The Apes (2017)\n", KRED);
+	printf("%sWhile She Was Out (2008)\n", KGRN);
 	printf("%sWhy Him? (2016)\n", KGRN);
 	printf("%sWolf Children (2012)\n", KGRN);
 	printf("%sWonder Woman (2017)\n", KRED);
