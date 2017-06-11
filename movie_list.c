@@ -61,7 +61,7 @@ int main(){
 	printf("%sWhile She Was Out (2008)\n", KGRN);
 	printf("%sWhy Him? (2016)\n", KGRN);
 	printf("%sWolf Children (2012)\n", KGRN);
-	printf("%sWonder Woman (2017)\n", KRED);
+	printf("%sWonder Woman (2017)\n", KGRN);
 	printf("%sYour Name (2016)\n", KGRN);
 
 	printf("\n\n%sMovies watched in 2016:\n\n", KNRM);
