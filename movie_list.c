@@ -42,7 +42,7 @@ int main(){
 	printf("%sMystic River (2003)\n", KGRN);
 	printf("%sNocturnal Animals (2016)\n", KGRN);
 	printf("%sPassengers (2016)\n", KGRN);
-	printf("%sPirates Of The Caribbean: Dead Men Tell No Tales (2017)\n", KRED);
+	printf("%sPirates Of The Caribbean: Dead Men Tell No Tales (2017)\n", KGRN);
 	printf("%sPirates Of The Caribbean: On Stranger Tides (2011)\n", KGRN);
 	printf("%sPower Rangers (2017)\n"; KRED);
 	printf("%sRogue One: A Star Wars Story (2016)\n", KGRN);
