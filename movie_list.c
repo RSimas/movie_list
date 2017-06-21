@@ -44,7 +44,7 @@ int main(){
 	printf("%sPassengers (2016)\n", KGRN);
 	printf("%sPirates Of The Caribbean: Dead Men Tell No Tales (2017)\n", KGRN);
 	printf("%sPirates Of The Caribbean: On Stranger Tides (2011)\n", KGRN);
-	printf("%sPower Rangers (2017)\n"; KRED);
+	printf("%sPower Rangers (2017)\n"; KGRN);
 	printf("%sRogue One: A Star Wars Story (2016)\n", KGRN);
 	printf("%sSpider-Man: Homecoming (2017)\n", KRED);
 	printf("%sStar Wars: Episode VIII – The Last Jedi (2017)\n", KRED);
