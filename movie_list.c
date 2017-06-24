@@ -44,6 +44,7 @@ int main(){
 	printf("%sPassengers (2016)\n", KGRN);
 	printf("%sPirates Of The Caribbean: Dead Men Tell No Tales (2017)\n", KGRN);
 	printf("%sPirates Of The Caribbean: On Stranger Tides (2011)\n", KGRN);
+	printf("%sPlaying For Keeps (2012)\n", KGRN);
 	printf("%sPower Rangers (2017)\n"; KGRN);
 	printf("%sRogue One: A Star Wars Story (2016)\n", KGRN);
 	printf("%sSpider-Man: Homecoming (2017)\n", KRED);
@@ -58,6 +59,7 @@ int main(){
 	printf("%sThe Lego Ninjago Movie (2017)\n", KRED);
 	printf("%sThe Next Three Days (2010)\n", KGRN);
 	printf("%sThor: Ragnarok (2017)\n", KRED);
+	printf("%sTwo For The Money (2005)\n", KGRN);
 	printf("%sUnknown (2011)\n", KGRN);
 	printf("%sWar For The Planet Of The Apes (2017)\n", KRED);
 	printf("%sWhile She Was Out (2008)\n", KGRN);
