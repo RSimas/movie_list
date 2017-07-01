@@ -12,7 +12,6 @@ int main(){
 	printf("\n\n%sMovies watched in 2017:\n\n", KNRM);
 
 	printf("%s5 Centimeters Per Second (2007)\n", KGRN);
-	printf("%sA Beautiful Mind (2001)\n", KRED);
 	printf("%sAllied (2016)\n", KGRN);
 	printf("%sAnalyze This (1999)\n", KGRN);
 	printf("%sArrival (2016)\n", KGRN);
@@ -32,7 +31,7 @@ int main(){
 	printf("%sJustice League (2017)\n", KRED);
 	printf("%sKillers (2010)\n", KGRN);
 	printf("%sKingsman: The Golden Circle (2017)\n", KRED);
-	printf("%sKong: Skull Island (2017)\n", KRED);
+	printf("%sKong: Skull Island (2017)\n", KGRN);
 	printf("%sLa La Land (2016)\n", KGRN);
 	printf("%sLogan (2017)\n", KGRN);
 	printf("%sManchester By The Sea (2016)\n", KGRN);
@@ -57,6 +56,7 @@ int main(){
 	printf("%sThe Jungle Book (2016)\n", KGRN);
 	printf("%sThe Lego Batman Movie (2017)\n", KRED);
 	printf("%sThe Lego Ninjago Movie (2017)\n", KRED);
+	printf("%sThe Mummy (2017)\n", KGRN);
 	printf("%sThe Next Three Days (2010)\n", KGRN);
 	printf("%sThor: Ragnarok (2017)\n", KRED);
 	printf("%sTwo For The Money (2005)\n", KGRN);
