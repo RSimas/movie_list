@@ -58,6 +58,7 @@ int main(){
 	printf("%sThe Lego Ninjago Movie (2017)\n", KRED);
 	printf("%sThe Mummy (2017)\n", KGRN);
 	printf("%sThe Next Three Days (2010)\n", KGRN);
+	printf("%sThe Return (2006)\n", KGRN);
 	printf("%sThor: Ragnarok (2017)\n", KRED);
 	printf("%sTwo For The Money (2005)\n", KGRN);
 	printf("%sUnknown (2011)\n", KGRN);
