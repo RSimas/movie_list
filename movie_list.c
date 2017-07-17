@@ -62,7 +62,7 @@ int main(){
 	printf("%sThor: Ragnarok (2017)\n", KRED);
 	printf("%sTwo For The Money (2005)\n", KGRN);
 	printf("%sUnknown (2011)\n", KGRN);
-	printf("%sWar For The Planet Of The Apes (2017)\n", KRED);
+	printf("%sWar For The Planet Of The Apes (2017)\n", KGRN);
 	printf("%sWhile She Was Out (2008)\n", KGRN);
 	printf("%sWhy Him? (2016)\n", KGRN);
 	printf("%sWolf Children (2012)\n", KGRN);
