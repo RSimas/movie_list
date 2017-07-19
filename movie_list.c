@@ -23,7 +23,7 @@ int main(){
 	printf("%sDunkirk (2017)\n", KRED);
 	printf("%sFantastic Beasts And Where To Find Them (2016)\n", KGRN);
 	printf("%sFlorence Foster Jenkins (2016)\n", KGRN);
-	printf("%sGet Out (2017)\n", KRED);
+	printf("%sGet Out (2017)\n", KGRN);
 	printf("%sGuardians Of The Galaxy Vol. 2 (2017)\n", KGRN);
 	printf("%sGun Shy (2000)\n", KGRN);
 	printf("%sHacksaw Ridge (2016)\n", KGRN);
