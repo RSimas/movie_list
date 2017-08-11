@@ -20,6 +20,7 @@ int main(){
 	printf("%sCars 3 (2017)\n", KRED);
 	printf("%sCasablanca (1942)\n", KRED);
 	printf("%sCitizen Kane (1941)\n", KRED);
+	printf("%sCrash (2004)\n", KGRN);
 	printf("%sDoctor Strange (2016)\n", KGRN);
 	printf("%sDrive (2011)\n", KRED);
 	printf("%sDunkirk (2017)\n", KRED);
