@@ -12,6 +12,7 @@ int main(){
 	printf("\n\n%sMovies watched in 2017:\n\n", KNRM);
 
 	printf("%s5 Centimeters Per Second (2007)\n", KGRN);
+	printf("%sAlien: Covenant (2017)\n", KGRN);
 	printf("%sAllied (2016)\n", KGRN);
 	printf("%sAnalyze This (1999)\n", KGRN);
 	printf("%sArrival (2016)\n", KGRN);
