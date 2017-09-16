@@ -18,6 +18,7 @@ int main(){
 	printf("%sArrival (2016)\n", KGRN);
 	printf("%sBaywatch (2017)\n", KGRN);
 	printf("%sBlade Runner 2049 (2017)\n", KRED);
+	printf("%sBruce Almighty (2003)\n", KRED);
 	printf("%sCars 3 (2017)\n", KRED);
 	printf("%sCasablanca (1942)\n", KRED);
 	printf("%sCitizen Kane (1941)\n", KRED);
