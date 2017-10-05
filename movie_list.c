@@ -51,7 +51,7 @@ int main(){
 	printf("%sPlaying For Keeps (2012)\n", KGRN);
 	printf("%sPower Rangers (2017)\n"; KGRN);
 	printf("%sRogue One: A Star Wars Story (2016)\n", KGRN);
-	printf("%sSpider-Man: Homecoming (2017)\n", KRED);
+	printf("%sSpider-Man: Homecoming (2017)\n", KGRN);
 	printf("%sStar Wars: Episode VIII – The Last Jedi (2017)\n", KRED);
 	printf("%sStorks (2016)\n", KGRN);
 	printf("%sThe Change-Up (2011)\n", KGRN);
