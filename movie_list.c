@@ -54,6 +54,7 @@ int main(){
 	printf("%sSpider-Man: Homecoming (2017)\n", KGRN);
 	printf("%sStar Wars: Episode VIII – The Last Jedi (2017)\n", KRED);
 	printf("%sStorks (2016)\n", KGRN);
+	printf("%sThe Bone Collector (1999)\n", KGRN)
 	printf("%sThe Change-Up (2011)\n", KGRN);
 	printf("%sThe Five-Year Engagement (2012)\n", KGRN);
 	printf("%sThe Garden Of Words (2013)\n", KGRN);
