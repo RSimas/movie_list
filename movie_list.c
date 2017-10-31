@@ -71,6 +71,7 @@ int main(){
 	printf("%sThe Next Three Days (2010)\n", KGRN);
 	printf("%sThe Other Woman (2009)\n", KGRN);
 	printf("%sThe Return (2006)\n", KGRN);
+	printf("%sThe Snowman (2017)\n", KGRN);
 	printf("%sThor: Ragnarok (2017)\n", KRED);
 	printf("%sTrust Me (2013)\n", KGRN);
 	printf("%sTwo For The Money (2005)\n", KGRN);
