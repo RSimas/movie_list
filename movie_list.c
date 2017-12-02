@@ -18,6 +18,7 @@ int main(){
 	printf("%sAnalyze This (1999)\n", KGRN);
 	printf("%sArrival (2016)\n", KGRN);
 	printf("%sBaby Driver (2017)\n", KRED);
+	printf("%sBad Words (2013)\n", KGRN);
 	printf("%sBaywatch (2017)\n", KGRN);
 	printf("%sBlade Runner 2049 (2017)\n", KRED);
 	printf("%sBruce Almighty (2003)\n", KGRN);
@@ -33,6 +34,7 @@ int main(){
 	printf("%sFantastic Beasts And Where To Find Them (2016)\n", KGRN);
 	printf("%sFlorence Foster Jenkins (2016)\n", KGRN);
 	printf("%sGet Out (2017)\n", KGRN);
+	printf("%sGone With The Wind (1939)\n", KRED);
 	printf("%sGuardians Of The Galaxy Vol. 2 (2017)\n", KGRN);
 	printf("%sGun Shy (2000)\n", KGRN);
 	printf("%sHacksaw Ridge (2016)\n", KGRN);
@@ -41,12 +43,14 @@ int main(){
 	printf("%sJuno (2007)\n", KGRN);
 	printf("%sJustice League (2017)\n", KRED);
 	printf("%sKicking & Screaming (2005)\n", KGRN);
+	printf("%sKidnap (2017)\n", KGRN);
 	printf("%sKillers (2010)\n", KGRN);
 	printf("%sKingsman: The Golden Circle (2017)\n", KRED);
 	printf("%sKong: Skull Island (2017)\n", KGRN);
 	printf("%sLa La Land (2016)\n", KGRN);
 	printf("%sLogan (2017)\n", KGRN);
 	printf("%sManchester By The Sea (2016)\n", KGRN);
+	printf("%sMisery (1990)\n", KRED);
 	printf("%sMoana (2016)\n", KGRN);
 	printf("%sMoonlight (2016)\n", KGRN);
 	printf("%sMurder On The Orient Express (2017)\n", KRED);
@@ -65,6 +69,7 @@ int main(){
 	printf("%sThe Adjustment Bureau (2011)\n", KGRN);
 	printf("%sThe Bone Collector (1999)\n", KGRN)
 	printf("%sThe Change-Up (2011)\n", KGRN);
+	printf("%sThe Disaster Artist (2017)\n", KRED);
 	printf("%sThe Five-Year Engagement (2012)\n", KGRN);
 	printf("%sThe Garden Of Words (2013)\n", KGRN);
 	printf("%sThe Girl On The Train (2016)\n", KGRN);
