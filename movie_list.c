@@ -77,8 +77,8 @@ int main(){
 	printf("%sThe Hitman's Bodyguard (2017)\n", KGRN);
 	printf("%sThe Jungle Book (2016)\n", KGRN);
 	printf("%sThe Lego Batman Movie (2017)\n", KGRN);
-	printf("%sThe Lego Ninjago Movie (2017)\n", KRED);
 	printf("%sThe Lucky One (2012)\n", KGRN);
+	printf("%sThe Mountain Between Us (2017)\n", KGRN);
 	printf("%sThe Mummy (2017)\n", KGRN);
 	printf("%sThe Next Three Days (2010)\n", KGRN);
 	printf("%sThe Other Woman (2009)\n", KGRN);
