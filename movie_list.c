@@ -41,7 +41,7 @@ int main(){
 	printf("%sHidden Figures (2016)\n", KGRN);
 	printf("%sJoe Somebody (2001)\n", KGRN);
 	printf("%sJuno (2007)\n", KGRN);
-	printf("%sJustice League (2017)\n", KRED);
+	printf("%sJustice League (2017)\n", KGRN);
 	printf("%sKicking & Screaming (2005)\n", KGRN);
 	printf("%sKidnap (2017)\n", KGRN);
 	printf("%sKillers (2010)\n", KGRN);
@@ -64,10 +64,11 @@ int main(){
 	printf("%sPower Rangers (2017)\n"; KGRN);
 	printf("%sRogue One: A Star Wars Story (2016)\n", KGRN);
 	printf("%sSpider-Man: Homecoming (2017)\n", KGRN);
-	printf("%sStar Wars: Episode VIII – The Last Jedi (2017)\n", KRED);
+	printf("%sStar Wars: Episode VIII – The Last Jedi (2017)\n", KGRN);
 	printf("%sStorks (2016)\n", KGRN);
 	printf("%sThe Adjustment Bureau (2011)\n", KGRN);
-	printf("%sThe Bone Collector (1999)\n", KGRN)
+	printf("%sThe Age of Adaline (2015)\n", KGRN);
+	printf("%sThe Bone Collector (1999)\n", KGRN);
 	printf("%sThe Change-Up (2011)\n", KGRN);
 	printf("%sThe Disaster Artist (2017)\n", KRED);
 	printf("%sThe Five-Year Engagement (2012)\n", KGRN);
