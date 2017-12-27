@@ -27,6 +27,7 @@ int main(){
 	printf("%sCitizen Kane (1941)\n", KRED);
 	printf("%sCoco (2017)\n", KRED);
 	printf("%sCrash (2004)\n", KGRN);
+	printf("%sDaddy's Home (2015)\n", KGRN);
 	printf("%sDinner For Schmucks (2010)\n", KGRN);
 	printf("%sDoctor Strange (2016)\n", KGRN);
 	printf("%sDrive (2011)\n", KGRN);
@@ -50,7 +51,7 @@ int main(){
 	printf("%sLa La Land (2016)\n", KGRN);
 	printf("%sLogan (2017)\n", KGRN);
 	printf("%sManchester By The Sea (2016)\n", KGRN);
-	printf("%sMisery (1990)\n", KRED);
+	printf("%sMisery (1990)\n", KGRN);
 	printf("%sMoana (2016)\n", KGRN);
 	printf("%sMoonlight (2016)\n", KGRN);
 	printf("%sMurder On The Orient Express (2017)\n", KRED);
