@@ -40,6 +40,8 @@ int main(){
 	printf("%sGun Shy (2000)\n", KGRN);
 	printf("%sHacksaw Ridge (2016)\n", KGRN);
 	printf("%sHidden Figures (2016)\n", KGRN);
+	printf("%sIndiana Jones And The Last Crusade (1989)\n", KGRN);
+	printf("%sIndiana Jones And The Temple Of Doom (1984)\n", KGRN);
 	printf("%sJoe Somebody (2001)\n", KGRN);
 	printf("%sJuno (2007)\n", KGRN);
 	printf("%sJustice League (2017)\n", KGRN);
@@ -95,6 +97,7 @@ int main(){
 	printf("%sWhile She Was Out (2008)\n", KGRN);
 	printf("%sWhy Him? (2016)\n", KGRN);
 	printf("%sWolf Children (2012)\n", KGRN);
+	printf("%sWonder (2017)\n", KGRN);
 	printf("%sWonder Woman (2017)\n", KGRN);
 	printf("%sYour Name (2016)\n", KGRN);
 
