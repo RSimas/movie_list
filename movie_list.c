@@ -48,7 +48,7 @@ int main(){
 	printf("%sKicking & Screaming (2005)\n", KGRN);
 	printf("%sKidnap (2017)\n", KGRN);
 	printf("%sKillers (2010)\n", KGRN);
-	printf("%sKingsman: The Golden Circle (2017)\n", KRED);
+	printf("%sKingsman: The Golden Circle (2017)\n", KGRN);
 	printf("%sKong: Skull Island (2017)\n", KGRN);
 	printf("%sLa La Land (2016)\n", KGRN);
 	printf("%sLogan (2017)\n", KGRN);
