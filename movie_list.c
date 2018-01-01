@@ -8,6 +8,22 @@
 int main(){
 	
 	system("clear");
+	
+	printf("\n\n%sMovies watched in 2018:\n\n", KNRM);
+	
+	printf("%sBaby Driver (2017)\n", KRED);
+	printd("%sBlack Panther (2018)\n", KRED);
+	printf("%sBlade Runner 2049 (2017)\n", KRED);
+	printf("%sCasablanca (1942)\n", KRED);
+	printf("%sCitizen Kane (1941)\n", KRED);
+	printf("%sCoco (2017)\n", KRED);
+	printf("%sDunkirk (2017)\n", KRED);
+	printf("%sGone With The Wind (1939)\n", KRED);
+	printf("%sPokémon The Movie: I Choose You! (2017)\n", KRED);
+	printf("%sThe Disaster Artist (2017)\n", KRED);
+	printf("%sThe Post (2017)\n", KRED);
+	printf("%sThor: Ragnarok (2017)\n", KRED);
+	printf("%sThree Billboards Outside Ebbing, Missouri (2017)\n", KRED);
 
 	printf("\n\n%sMovies watched in 2017:\n\n", KNRM);
 
@@ -17,25 +33,18 @@ int main(){
 	printf("%sAllied (2016)\n", KGRN);
 	printf("%sAnalyze This (1999)\n", KGRN);
 	printf("%sArrival (2016)\n", KGRN);
-	printf("%sBaby Driver (2017)\n", KRED);
 	printf("%sBad Words (2013)\n", KGRN);
 	printf("%sBaywatch (2017)\n", KGRN);
-	printf("%sBlade Runner 2049 (2017)\n", KRED);
 	printf("%sBruce Almighty (2003)\n", KGRN);
 	printf("%sCars 3 (2017)\n", KGRN);
-	printf("%sCasablanca (1942)\n", KRED);
-	printf("%sCitizen Kane (1941)\n", KRED);
-	printf("%sCoco (2017)\n", KRED);
 	printf("%sCrash (2004)\n", KGRN);
 	printf("%sDaddy's Home (2015)\n", KGRN);
 	printf("%sDinner For Schmucks (2010)\n", KGRN);
 	printf("%sDoctor Strange (2016)\n", KGRN);
 	printf("%sDrive (2011)\n", KGRN);
-	printf("%sDunkirk (2017)\n", KRED);
 	printf("%sFantastic Beasts And Where To Find Them (2016)\n", KGRN);
 	printf("%sFlorence Foster Jenkins (2016)\n", KGRN);
 	printf("%sGet Out (2017)\n", KGRN);
-	printf("%sGone With The Wind (1939)\n", KRED);
 	printf("%sGuardians Of The Galaxy Vol. 2 (2017)\n", KGRN);
 	printf("%sGun Shy (2000)\n", KGRN);
 	printf("%sHacksaw Ridge (2016)\n", KGRN);
@@ -56,14 +65,12 @@ int main(){
 	printf("%sMisery (1990)\n", KGRN);
 	printf("%sMoana (2016)\n", KGRN);
 	printf("%sMoonlight (2016)\n", KGRN);
-	printf("%sMurder On The Orient Express (2017)\n", KRED);
 	printf("%sMystic River (2003)\n", KGRN);
 	printf("%sNocturnal Animals (2016)\n", KGRN);
 	printf("%sPassengers (2016)\n", KGRN);
 	printf("%sPirates Of The Caribbean: Dead Men Tell No Tales (2017)\n", KGRN);
 	printf("%sPirates Of The Caribbean: On Stranger Tides (2011)\n", KGRN);
 	printf("%sPlaying For Keeps (2012)\n", KGRN);
-	printf("%sPokémon The Movie: I Choose You! (2017)\n", KRED);
 	printf("%sPower Rangers (2017)\n"; KGRN);
 	printf("%sRogue One: A Star Wars Story (2016)\n", KGRN);
 	printf("%sSpider-Man: Homecoming (2017)\n", KGRN);
@@ -73,7 +80,6 @@ int main(){
 	printf("%sThe Age of Adaline (2015)\n", KGRN);
 	printf("%sThe Bone Collector (1999)\n", KGRN);
 	printf("%sThe Change-Up (2011)\n", KGRN);
-	printf("%sThe Disaster Artist (2017)\n", KRED);
 	printf("%sThe Five-Year Engagement (2012)\n", KGRN);
 	printf("%sThe Garden Of Words (2013)\n", KGRN);
 	printf("%sThe Girl On The Train (2016)\n", KGRN);
@@ -86,10 +92,8 @@ int main(){
 	printf("%sThe Mummy (2017)\n", KGRN);
 	printf("%sThe Next Three Days (2010)\n", KGRN);
 	printf("%sThe Other Woman (2009)\n", KGRN);
-	printf("%sThe Post (2017)\n", KRED);
 	printf("%sThe Return (2006)\n", KGRN);
 	printf("%sThe Snowman (2017)\n", KGRN);
-	printf("%sThor: Ragnarok (2017)\n", KRED);
 	printf("%sTrust Me (2013)\n", KGRN);
 	printf("%sTwo For The Money (2005)\n", KGRN);
 	printf("%sUnknown (2011)\n", KGRN);
