@@ -17,7 +17,8 @@ int main(){
 	printf("%sCasablanca (1942)\n", KRED);
 	printf("%sCitizen Kane (1941)\n", KRED);
 	printf("%sCoco (2017)\n", KRED);
-	printf("%sDunkirk (2017)\n", KRED);
+	printf("%sDunkirk (2017)\n", KGRN);
+	printf("%sEasy A (2010)\n", KGRN);
 	printf("%sGone With The Wind (1939)\n", KRED);
 	printf("%sPokémon The Movie: I Choose You! (2017)\n", KRED);
 	printf("%sThe Disaster Artist (2017)\n", KGRN);
