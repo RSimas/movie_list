@@ -359,7 +359,6 @@ int main(){
 	printf("%sThe Lone Ranger (2013)\n", KGRN);
 	printf("%sThe Maze Runner (2014)\n", KGRN);
 	printf("%sThe Monuments Men (2014)\n", KGRN);
-	printf("%sThe Normal Heart (2014)\n", KGRN);
 	printf("%sThe Other Woman (2014)\n", KGRN);
 	printf("%sThe Purge (2013)\n", KGRN);
 	printf("%sThe Purge: Anarchy (2014)\n", KGRN);
