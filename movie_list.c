@@ -23,7 +23,7 @@ int main(){
 	printf("%sPokémon The Movie: I Choose You! (2017)\n", KRED);
 	printf("%sThe Disaster Artist (2017)\n", KGRN);
 	printf("%sThe Post (2017)\n", KRED);
-	printf("%sThor: Ragnarok (2017)\n", KRED);
+	printf("%sThor: Ragnarok (2017)\n", KGRN);
 	printf("%sThree Billboards Outside Ebbing, Missouri (2017)\n", KRED);
 
 	printf("\n\n%sMovies watched in 2017:\n\n", KNRM);
