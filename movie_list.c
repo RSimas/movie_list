@@ -23,12 +23,11 @@ int main(){
 	printf("%sGone With The Wind (1939)\n", KRED);
 	printf("%sI, Tonya (2017)\n", KGRN);
 	printf("%sLady Bird (2017)\n", KRED);
-	printf("%sMolly's Game (2017)\n", KRED);
 	printf("%sPokémon The Movie: I Choose You! (2017)\n", KGRN);
 	printf("%sThe Commuter (2018)\n", KGRN);
 	printf("%sThe Disaster Artist (2017)\n", KGRN);
-	printf("%sThe Post (2017)\n", KRED);
-	printf("%sThe Shape of Water (2017)\n", KRED);
+	printf("%sThe Post (2017)\n", KGRN);
+	printf("%sThe Shape Of Water (2017)\n", KRED);
 	printf("%sThor: Ragnarok (2017)\n", KGRN);
 	printf("%sThree Billboards Outside Ebbing, Missouri (2017)\n", KRED);
 
