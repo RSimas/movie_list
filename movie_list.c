@@ -28,6 +28,7 @@ int main(){
 	printf("%sThe Disaster Artist (2017)\n", KGRN);
 	printf("%sThe Post (2017)\n", KGRN);
 	printf("%sThe Shape Of Water (2017)\n", KRED);
+	printf("%sThe Vow (2012)\n", KGRN);
 	printf("%sThor: Ragnarok (2017)\n", KGRN);
 	printf("%sThree Billboards Outside Ebbing, Missouri (2017)\n", KRED);
 
