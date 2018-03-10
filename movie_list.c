@@ -20,6 +20,7 @@ int main(){
 	printf("%sCoco (2017)\n", KRED);
 	printf("%sDunkirk (2017)\n", KGRN);
 	printf("%sEasy A (2010)\n", KGRN);
+	printf("%sGodzilla: Planet Of The Monsters (2017)\n", KGRN);
 	printf("%sGone With The Wind (1939)\n", KRED);
 	printf("%sI, Tonya (2017)\n", KGRN);
 	printf("%sLady Bird (2017)\n", KRED);
@@ -30,7 +31,7 @@ int main(){
 	printf("%sThe Shape Of Water (2017)\n", KGRN);
 	printf("%sThe Vow (2012)\n", KGRN);
 	printf("%sThor: Ragnarok (2017)\n", KGRN);
-	printf("%sThree Billboards Outside Ebbing, Missouri (2017)\n", KRED);
+	printf("%sThree Billboards Outside Ebbing, Missouri (2017)\n", KGRN);
 
 	printf("\n\n%sMovies watched in 2017:\n\n", KNRM);
 
