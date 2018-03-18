@@ -23,6 +23,7 @@ int main(){
 	printf("%sGodzilla: Planet Of The Monsters (2017)\n", KGRN);
 	printf("%sGone With The Wind (1939)\n", KRED);
 	printf("%sI, Tonya (2017)\n", KGRN);
+	printf("%sJumanji: Welcome To The Jungle (2017)\n", KGRN);
 	printf("%sLady Bird (2017)\n", KRED);
 	printf("%sPokémon The Movie: I Choose You! (2017)\n", KGRN);
 	printf("%sThe Commuter (2018)\n", KGRN);
