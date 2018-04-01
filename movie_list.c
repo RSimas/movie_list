@@ -11,28 +11,41 @@ int main(){
 	
 	printf("\n\n%sMovies watched in 2018:\n\n", KNRM);
 	
+	printf("%sAnt-Man And The Wasp (2018)\n", KRED);
+	printf("%sAvengers: Infinity War (2018)\n", KRED);
 	printf("%sBaby Driver (2017)\n", KGRN);
 	printf("%sBad Moms (2016)\n", KGRN);
 	printd("%sBlack Panther (2018)\n", KRED);
 	printf("%sBlade Runner 2049 (2017)\n", KGRN);
+	printf("%sBlockers (2018)\n", KRED);
 	printf("%sCasablanca (1942)\n", KRED);
 	printf("%sCitizen Kane (1941)\n", KRED);
 	printf("%sCoco (2017)\n", KRED);
+	printf("%sDeadpool 2 (2018)\n", KRED);
 	printf("%sDunkirk (2017)\n", KGRN);
 	printf("%sEasy A (2010)\n", KGRN);
 	printf("%sGodzilla: Planet Of The Monsters (2017)\n", KGRN);
 	printf("%sGone With The Wind (1939)\n", KRED);
 	printf("%sI, Tonya (2017)\n", KGRN);
 	printf("%sJumanji: Welcome To The Jungle (2017)\n", KGRN);
+	printf("%sJurassic World: Fallen Kingdom (2018)\n", KRED);
 	printf("%sLady Bird (2017)\n", KRED);
+	printf("%sMission: Impossible - Fallout (2018)\n", KRED);
+	printf("%sOcean's 8 (2018)\n", KRED);
+	printf("%sPokémon The Movie: Everyone's Story (2018)\n", KRED);
 	printf("%sPokémon The Movie: I Choose You! (2017)\n", KGRN);
 	printf("%sThe Commuter (2018)\n", KGRN);
 	printf("%sThe Disaster Artist (2017)\n", KGRN);
+	printf("%sThe First Purge (2018)\n", KRED);
 	printf("%sThe Post (2017)\n", KGRN);
 	printf("%sThe Shape Of Water (2017)\n", KGRN);
 	printf("%sThe Vow (2012)\n", KGRN);
+	printf("%sThis Means War (2012)\n", KGRN);
 	printf("%sThor: Ragnarok (2017)\n", KGRN);
 	printf("%sThree Billboards Outside Ebbing, Missouri (2017)\n", KGRN);
+	printf("%sTomb Raider (2018)\n", KRED);
+	printf("%sTrespass (2011)\n", KGRN);
+	printf("%sVenom (2018)\n", KRED);
 
 	printf("\n\n%sMovies watched in 2017:\n\n", KNRM);
 
