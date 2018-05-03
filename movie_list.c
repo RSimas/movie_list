@@ -12,7 +12,7 @@ int main(){
 	printf("\n\n%sMovies watched in 2018:\n\n", KNRM);
 	
 	printf("%sAnt-Man And The Wasp (2018)\n", KRED);
-	printf("%sAvengers: Infinity War (2018)\n", KRED);
+	printf("%sAvengers: Infinity War (2018)\n", KGRN);
 	printf("%sBaby Driver (2017)\n", KGRN);
 	printf("%sBad Moms (2016)\n", KGRN);
 	printd("%sBlack Panther (2018)\n", KRED);
