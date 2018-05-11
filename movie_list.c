@@ -29,7 +29,6 @@ int main(){
 	printf("%sI, Tonya (2017)\n", KGRN);
 	printf("%sJumanji: Welcome To The Jungle (2017)\n", KGRN);
 	printf("%sJurassic World: Fallen Kingdom (2018)\n", KRED);
-	printf("%sLady Bird (2017)\n", KRED);
 	printf("%sMission: Impossible - Fallout (2018)\n", KRED);
 	printf("%sOcean's 8 (2018)\n", KRED);
 	printf("%sPokémon The Movie: Everyone's Story (2018)\n", KRED);
@@ -40,6 +39,7 @@ int main(){
 	printf("%sThe Post (2017)\n", KGRN);
 	printf("%sThe Shape Of Water (2017)\n", KGRN);
 	printf("%sThe Vow (2012)\n", KGRN);
+	printf("%sThe Wedding Ringer (2015)\n", KGRN);
 	printf("%sThis Means War (2012)\n", KGRN);
 	printf("%sThor: Ragnarok (2017)\n", KGRN);
 	printf("%sThree Billboards Outside Ebbing, Missouri (2017)\n", KGRN);
