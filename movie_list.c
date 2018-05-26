@@ -15,7 +15,7 @@ int main(){
 	printf("%sAvengers: Infinity War (2018)\n", KGRN);
 	printf("%sBaby Driver (2017)\n", KGRN);
 	printf("%sBad Moms (2016)\n", KGRN);
-	printd("%sBlack Panther (2018)\n", KRED);
+	printd("%sBlack Panther (2018)\n", KGRN);
 	printf("%sBlade Runner 2049 (2017)\n", KGRN);
 	printf("%sBlockers (2018)\n", KRED);
 	printf("%sCasablanca (1942)\n", KRED);
