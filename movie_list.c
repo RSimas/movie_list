@@ -22,6 +22,8 @@ int main(){
 	printf("%sCitizen Kane (1941)\n", KRED);
 	printf("%sCoco (2017)\n", KRED);
 	printf("%sDeadpool 2 (2018)\n", KRED);
+	printf("%sDeath Wish (2018)\n", KGRN);
+	printf("%sDeliver Us From Evil (2014)\n", KGRN);
 	printf("%sDunkirk (2017)\n", KGRN);
 	printf("%sEasy A (2010)\n", KGRN);
 	printf("%sGodzilla: Planet Of The Monsters (2017)\n", KGRN);
