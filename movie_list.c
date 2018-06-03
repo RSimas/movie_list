@@ -28,6 +28,7 @@ int main(){
 	printf("%sEasy A (2010)\n", KGRN);
 	printf("%sGodzilla: Planet Of The Monsters (2017)\n", KGRN);
 	printf("%sGone With The Wind (1939)\n", KRED);
+	printf("%sHall Pass (2011)\n", KGRN);
 	printf("%sI, Tonya (2017)\n", KGRN);
 	printf("%sJumanji: Welcome To The Jungle (2017)\n", KGRN);
 	printf("%sJurassic World: Fallen Kingdom (2018)\n", KRED);
@@ -35,6 +36,7 @@ int main(){
 	printf("%sOcean's 8 (2018)\n", KRED);
 	printf("%sPokémon The Movie: Everyone's Story (2018)\n", KRED);
 	printf("%sPokémon The Movie: I Choose You! (2017)\n", KGRN);
+	printf("%sThe Boss (2016)\n", KGRN);
 	printf("%sThe Commuter (2018)\n", KGRN);
 	printf("%sThe Disaster Artist (2017)\n", KGRN);
 	printf("%sThe First Purge (2018)\n", KRED);
