@@ -38,6 +38,7 @@ int main(){
 	printf("%sOcean's 8 (2018)\n", KRED);
 	printf("%sPokémon The Movie: Everyone's Story (2018)\n", KRED);
 	printf("%sPokémon The Movie: I Choose You! (2017)\n", KGRN);
+	printf("%sRampage (2018)\n", KGRN);
 	printf("%sThe Boss (2016)\n", KGRN);
 	printf("%sThe Commuter (2018)\n", KGRN);
 	printf("%sThe Disaster Artist (2017)\n", KGRN);
