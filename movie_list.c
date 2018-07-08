@@ -33,6 +33,7 @@ int main(){
 	printf("%sI, Tonya (2017)\n", KGRN);
 	printf("%sJumanji: Welcome To The Jungle (2017)\n", KGRN);
 	printf("%sJurassic World: Fallen Kingdom (2018)\n", KGRN);
+	printf("%sKingsglaive: Final Fantasy XV (2016)\n", KGRN);
 	printf("%sLaggies (2014)\n", KGRN);
 	printf("%sMission: Impossible - Fallout (2018)\n", KRED);
 	printf("%sOcean's 8 (2018)\n", KRED);
