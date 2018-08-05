@@ -36,7 +36,8 @@ int main(){
 	printf("%sJurassic World: Fallen Kingdom (2018)\n", KGRN);
 	printf("%sKingsglaive: Final Fantasy XV (2016)\n", KGRN);
 	printf("%sLaggies (2014)\n", KGRN);
-	printf("%sMission: Impossible - Fallout (2018)\n", KRED);
+	printf("%sLike Father (2018)\n", KGRN);
+	printf("%sMission: Impossible - Fallout (2018)\n", KGRN);
 	printf("%sOcean's 8 (2018)\n", KRED);
 	printf("%sPokémon The Movie: Everyone's Story (2018)\n", KRED);
 	printf("%sPokémon The Movie: I Choose You! (2017)\n", KGRN);
