@@ -21,8 +21,8 @@ int main(){
 	printf("%sBlockers (2018)\n", KRED);
 	printf("%sCasablanca (1942)\n", KRED);
 	printf("%sCitizen Kane (1941)\n", KRED);
-	printf("%sCoco (2017)\n", KRED);
-	printf("%sDeadpool 2 (2018)\n", KRED);
+	printf("%sCoco (2017)\n", KGRN);
+	printf("%sDeadpool 2 (2018)\n", KGRN);
 	printf("%sDeath Wish (2018)\n", KGRN);
 	printf("%sDeliver Us From Evil (2014)\n", KGRN);
 	printf("%sDunkirk (2017)\n", KGRN);
@@ -37,6 +37,7 @@ int main(){
 	printf("%sKingsglaive: Final Fantasy XV (2016)\n", KGRN);
 	printf("%sLaggies (2014)\n", KGRN);
 	printf("%sLike Father (2018)\n", KGRN);
+	printf("%sLions For Lambs (2007)\n", KGRN);
 	printf("%sMission: Impossible - Fallout (2018)\n", KGRN);
 	printf("%sOcean's 8 (2018)\n", KRED);
 	printf("%sPokémon The Movie: Everyone's Story (2018)\n", KRED);
