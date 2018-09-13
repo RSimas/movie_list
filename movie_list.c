@@ -113,7 +113,7 @@ int main(){
 	printf("%sStar Wars: Episode VIII – The Last Jedi (2017)\n", KGRN);
 	printf("%sStorks (2016)\n", KGRN);
 	printf("%sThe Adjustment Bureau (2011)\n", KGRN);
-	printf("%sThe Age of Adaline (2015)\n", KGRN);
+	printf("%sThe Age Of Adaline (2015)\n", KGRN);
 	printf("%sThe Bone Collector (1999)\n", KGRN);
 	printf("%sThe Change-Up (2011)\n", KGRN);
 	printf("%sThe Five-Year Engagement (2012)\n", KGRN);
