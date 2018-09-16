@@ -57,6 +57,7 @@ int main(){
 	printf("%sThe Wedding Ringer (2015)\n", KGRN);
 	printf("%sThis Means War (2012)\n", KGRN);
 	printf("%sThor: Ragnarok (2017)\n", KGRN);
+	printf("%sThoroughbreds (2017)\n", KGRN);
 	printf("%sThree Billboards Outside Ebbing, Missouri (2017)\n", KGRN);
 	printf("%sTrespass (2011)\n", KGRN);
 	printf("%sVenom (2018)\n", KRED);
