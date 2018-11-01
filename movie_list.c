@@ -23,6 +23,7 @@ int main(){
 	printf("%sBlockers (2018)\n", KGRN);
 	printf("%sCasablanca (1942)\n", KRED);
 	printf("%sCitizen Kane (1941)\n", KRED);
+	printf("%sClue (1985)\n", KGRN);
 	printf("%sCoco (2017)\n", KGRN);
 	printf("%sDeadpool 2 (2018)\n", KGRN);
 	printf("%sDeath Wish (2018)\n", KGRN);
@@ -64,6 +65,7 @@ int main(){
 	printf("%sThor: Ragnarok (2017)\n", KGRN);
 	printf("%sThoroughbreds (2017)\n", KGRN);
 	printf("%sThree Billboards Outside Ebbing, Missouri (2017)\n", KGRN);
+	printf("%sTower Heist (2011)\n", KGRN);
 	printf("%sTrespass (2011)\n", KGRN);
 	printf("%sVenom (2018)\n", KRED);
 
