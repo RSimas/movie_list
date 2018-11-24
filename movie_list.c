@@ -12,7 +12,6 @@ int main(){
 	printf("\n\n%sMovies watched in 2018:\n\n", KNRM);
 	
 	printf("%sA Quiet Place (2018)\n", KGRN);
-	printf("%sA Silent Voice (2016)\n", KRED);
 	printf("%sAdrift (2018)\n", KRED);
 	printf("%sAnt-Man And The Wasp (2018)\n", KGRN);
 	printf("%sAvengers: Infinity War (2018)\n", KGRN);
@@ -35,8 +34,10 @@ int main(){
 	printf("%sGodzilla: Planet Of The Monsters (2017)\n", KGRN);
 	printf("%sGone With The Wind (1939)\n", KRED);
 	printf("%sHall Pass (2011)\n", KGRN);
+	printf("%sHalloween (1978)\n", KGRN);
+	printf("%sHalloween (2018)\n", KGRN);
 	printf("%sI, Tonya (2017)\n", KGRN);
-	printf("%sIncredibles 2 (2018)\n", KRED);
+	printf("%sIncredibles 2 (2018)\n", KGRN);
 	printf("%sJumanji: Welcome To The Jungle (2017)\n", KGRN);
 	printf("%sJurassic World: Fallen Kingdom (2018)\n", KGRN);
 	printf("%sKingsglaive: Final Fantasy XV (2016)\n", KGRN);
@@ -57,6 +58,7 @@ int main(){
 	printf("%sThe First Purge (2018)\n", KRED);
 	printf("%sThe Gift (2015)\n", KGRN);
 	printf("%sThe Post (2017)\n", KGRN);
+	printf("%sThe Shallows (2016)\n", KGRN);
 	printf("%sThe Shape Of Water (2017)\n", KGRN);
 	printf("%sThe Spy Who Dumped Me (2018)\n", KGRN);
 	printf("%sThe Vow (2012)\n", KGRN);
