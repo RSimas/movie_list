@@ -12,6 +12,7 @@ int main(){
 	printf("\n\n%sMovies watched in 2018:\n\n", KNRM);
 	
 	printf("%sA Quiet Place (2018)\n", KGRN);
+	printf("%sA Simple Favor (2018)\n", KGRN);
 	printf("%sAdrift (2018)\n", KRED);
 	printf("%sAnt-Man And The Wasp (2018)\n", KGRN);
 	printf("%sAvengers: Infinity War (2018)\n", KGRN);
@@ -55,7 +56,6 @@ int main(){
 	printf("%sThe Boss (2016)\n", KGRN);
 	printf("%sThe Commuter (2018)\n", KGRN);
 	printf("%sThe Disaster Artist (2017)\n", KGRN);
-	printf("%sThe First Purge (2018)\n", KRED);
 	printf("%sThe Gift (2015)\n", KGRN);
 	printf("%sThe Post (2017)\n", KGRN);
 	printf("%sThe Shallows (2016)\n", KGRN);
@@ -69,7 +69,7 @@ int main(){
 	printf("%sThree Billboards Outside Ebbing, Missouri (2017)\n", KGRN);
 	printf("%sTower Heist (2011)\n", KGRN);
 	printf("%sTrespass (2011)\n", KGRN);
-	printf("%sVenom (2018)\n", KRED);
+	printf("%sVenom (2018)\n", KGRN);
 
 	printf("\n\n%sMovies watched in 2017:\n\n", KNRM);
 
