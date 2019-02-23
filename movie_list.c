@@ -9,11 +9,36 @@ int main(){
 	
 	system("clear");
 	
+	printf("\n\n%sMovies watched in 2019:\n\n", KNRM);
+	
+	printf("%sAdrift (2018)\n", KRED);
+	printf("%sAquaman (2018)\n", KGRN);
+	printf("%sAvengers: Endgame (2019)\n", KRED);
+	printf("%sBen Is Back (2018)\n", KGRN);
+	printf("%sBohemian Rhapsody (2018)\n", KGRN);
+	printf("%sCaptain Marvel (2019)\n", KRED);
+	printf("%sCold Pursuit (2019)\n", KGRN);
+	printf("%sDark Phoenix (2019)\n", KRED);
+	printf("%sDragon Ball Super: Broly (2018)\n", KGRN);
+	printf("%sFantastic Beasts: The Crimes of Grindelwald (2018)\n", KRED);
+	printf("%sGlass (2019)\n", KGRN);
+	printf("%sHow To Train Your Dragon: The Hidden World (2019)\n", KRED);
+	printf("%sJohnny English Strikes Again (2018)\n", KGRN);
+	printf("%sMirai (2018)\n", KRED);
+	printf("%sPokémon Detective Pikachu (2019)\n", KRED);
+	printf("%sPokémon The Movie: Everyone's Story (2018)\n", KGRN);
+	printf("%sRalph Breaks the Internet (2018)\n", KGRN);
+	printf("%sShazam! (2019)\n", KRED);
+	printf("%sSpider-Man: Far From Home (2019)\n", KRED);
+	printf("%sSpider-Man: Into The Spider-Verse (2018)\n", KRED);
+	printf("%sSplit (2016)\n", KGRN);
+	printf("%sThe Favourite (2018)\n", KRED);
+	printf("%sToy Story 4 (2019)\n", KRED);
+	
 	printf("\n\n%sMovies watched in 2018:\n\n", KNRM);
 	
 	printf("%sA Quiet Place (2018)\n", KGRN);
 	printf("%sA Simple Favor (2018)\n", KGRN);
-	printf("%sAdrift (2018)\n", KRED);
 	printf("%sAnt-Man And The Wasp (2018)\n", KGRN);
 	printf("%sAvengers: Infinity War (2018)\n", KGRN);
 	printf("%sBaby Driver (2017)\n", KGRN);
@@ -22,8 +47,6 @@ int main(){
 	printd("%sBlack Panther (2018)\n", KGRN);
 	printf("%sBlade Runner 2049 (2017)\n", KGRN);
 	printf("%sBlockers (2018)\n", KGRN);
-	printf("%sCasablanca (1942)\n", KRED);
-	printf("%sCitizen Kane (1941)\n", KRED);
 	printf("%sClue (1985)\n", KGRN);
 	printf("%sCoco (2017)\n", KGRN);
 	printf("%sDeadpool 2 (2018)\n", KGRN);
@@ -34,7 +57,6 @@ int main(){
 	printf("%sEighth Grade (2018)\n", KGRN);
 	printf("%sGame Night (2018)\n", KGRN);
 	printf("%sGodzilla: Planet Of The Monsters (2017)\n", KGRN);
-	printf("%sGone With The Wind (1939)\n", KRED);
 	printf("%sHall Pass (2011)\n", KGRN);
 	printf("%sHalloween (1978)\n", KGRN);
 	printf("%sHalloween (2018)\n", KGRN);
@@ -49,7 +71,6 @@ int main(){
 	printf("%sMission: Impossible - Fallout (2018)\n", KGRN);
 	printf("%sO Pai Tirano (1941)\n", KGRN);
 	printf("%sOcean's 8 (2018)\n", KGRN);
-	printf("%sPokémon The Movie: Everyone's Story (2018)\n", KRED);
 	printf("%sPokémon The Movie: I Choose You! (2017)\n", KGRN);
 	printf("%sRampage (2018)\n", KGRN);
 	printf("%sSkyscraper (2018)\n", KGRN);
