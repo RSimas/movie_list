@@ -20,7 +20,7 @@ int main(){
 	printf("%sCold Pursuit (2019)\n", KGRN);
 	printf("%sDark Phoenix (2019)\n", KRED);
 	printf("%sDragon Ball Super: Broly (2018)\n", KGRN);
-	printf("%sFantastic Beasts: The Crimes of Grindelwald (2018)\n", KRED);
+	printf("%sFantastic Beasts: The Crimes of Grindelwald (2018)\n", KGRN);
 	printf("%sGlass (2019)\n", KGRN);
 	printf("%sHow To Train Your Dragon: The Hidden World (2019)\n", KRED);
 	printf("%sJohnny English Strikes Again (2018)\n", KGRN);
@@ -30,9 +30,8 @@ int main(){
 	printf("%sRalph Breaks the Internet (2018)\n", KGRN);
 	printf("%sShazam! (2019)\n", KRED);
 	printf("%sSpider-Man: Far From Home (2019)\n", KRED);
-	printf("%sSpider-Man: Into The Spider-Verse (2018)\n", KRED);
+	printf("%sSpider-Man: Into The Spider-Verse (2018)\n", KGRN);
 	printf("%sSplit (2016)\n", KGRN);
-	printf("%sThe Favourite (2018)\n", KRED);
 	printf("%sToy Story 4 (2019)\n", KRED);
 	
 	printf("\n\n%sMovies watched in 2018:\n\n", KNRM);
