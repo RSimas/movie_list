@@ -16,7 +16,7 @@ int main(){
 	printf("%sAvengers: Endgame (2019)\n", KRED);
 	printf("%sBen Is Back (2018)\n", KGRN);
 	printf("%sBohemian Rhapsody (2018)\n", KGRN);
-	printf("%sCaptain Marvel (2019)\n", KRED);
+	printf("%sCaptain Marvel (2019)\n", KGRN);
 	printf("%sCold Pursuit (2019)\n", KGRN);
 	printf("%sDark Phoenix (2019)\n", KRED);
 	printf("%sDragon Ball Super: Broly (2018)\n", KGRN);
