@@ -13,7 +13,7 @@ int main(){
 	
 	printf("%sAdrift (2018)\n", KRED);
 	printf("%sAquaman (2018)\n", KGRN);
-	printf("%sAvengers: Endgame (2019)\n", KRED);
+	printf("%sAvengers: Endgame (2019)\n", KGRN);
 	printf("%sBen Is Back (2018)\n", KGRN);
 	printf("%sBohemian Rhapsody (2018)\n", KGRN);
 	printf("%sCaptain Marvel (2019)\n", KGRN);
@@ -32,6 +32,7 @@ int main(){
 	printf("%sSpider-Man: Far From Home (2019)\n", KRED);
 	printf("%sSpider-Man: Into The Spider-Verse (2018)\n", KGRN);
 	printf("%sSplit (2016)\n", KGRN);
+	printf("%sThe House (2017)\n", KGRN);
 	printf("%sThe Lego Movie 2: The Second Part (2019)\n", KGRN);
 	printf("%sToy Story 4 (2019)\n", KRED);
 	
