@@ -23,6 +23,7 @@ int main(){
 	printf("%sFantastic Beasts: The Crimes of Grindelwald (2018)\n", KGRN);
 	printf("%sGlass (2019)\n", KGRN);
 	printf("%sHow To Train Your Dragon: The Hidden World (2019)\n", KRED);
+	printf("%sInstant Family (2018)\n", KGRN);
 	printf("%sJohnny English Strikes Again (2018)\n", KGRN);
 	printf("%sMirai (2018)\n", KRED);
 	printf("%sPokémon Detective Pikachu (2019)\n", KRED);
