@@ -19,12 +19,13 @@ int main(){
 	printf("%sBohemian Rhapsody (2018)\n", KGRN);
 	printf("%sCaptain Marvel (2019)\n", KGRN);
 	printf("%sCold Pursuit (2019)\n", KGRN);
-	printf("%sDark Phoenix (2019)\n", KRED);
+	printf("%sDark Phoenix (2019)\n", KGRN);
 	printf("%sDragon Ball Super: Broly (2018)\n", KGRN);
 	printf("%sFantastic Beasts: The Crimes of Grindelwald (2018)\n", KGRN);
 	printf("%sGlass (2019)\n", KGRN);
 	printf("%sGodzilla: King Of The Monsters (2019)\n", KGRN);
 	printf("%sHow To Train Your Dragon: The Hidden World (2019)\n", KRED);
+	printf("%sI Am Mother (2019)\n", KGRN);
 	printf("%sInstant Family (2018)\n", KGRN);
 	printf("%sJohnny English Strikes Again (2018)\n", KGRN);
 	printf("%sMirai (2018)\n", KRED);
