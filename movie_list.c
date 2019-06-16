@@ -29,9 +29,11 @@ int main(){
 	printf("%sInstant Family (2018)\n", KGRN);
 	printf("%sJohnny English Strikes Again (2018)\n", KGRN);
 	printf("%sMirai (2018)\n", KRED);
-	printf("%sPokémon Detective Pikachu (2019)\n", KRED);
+	printf("%sMurder Mystery (2019)\n", KGRN);
+	printf("%sPokémon Detective Pikachu (2019)\n", KGRN);
 	printf("%sPokémon The Movie: The Power Of Us (2018)\n", KGRN);
 	printf("%sRalph Breaks the Internet (2018)\n", KGRN);
+	printf("%sReplicas (2018)\n", KGRN);
 	printf("%sSearching (2018)\n", KGRN);
 	printf("%sShazam! (2019)\n", KRED);
 	printf("%sSpider-Man: Far From Home (2019)\n", KRED);
