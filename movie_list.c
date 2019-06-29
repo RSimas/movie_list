@@ -35,7 +35,7 @@ int main(){
 	printf("%sRalph Breaks the Internet (2018)\n", KGRN);
 	printf("%sReplicas (2018)\n", KGRN);
 	printf("%sSearching (2018)\n", KGRN);
-	printf("%sShazam! (2019)\n", KRED);
+	printf("%sShazam! (2019)\n", KGRN);
 	printf("%sSpider-Man: Far From Home (2019)\n", KRED);
 	printf("%sSpider-Man: Into The Spider-Verse (2018)\n", KGRN);
 	printf("%sSplit (2016)\n", KGRN);
