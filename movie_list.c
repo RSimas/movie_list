@@ -36,11 +36,12 @@ int main(){
 	printf("%sReplicas (2018)\n", KGRN);
 	printf("%sSearching (2018)\n", KGRN);
 	printf("%sShazam! (2019)\n", KGRN);
-	printf("%sSpider-Man: Far From Home (2019)\n", KRED);
+	printf("%sSpider-Man: Far From Home (2019)\n", KGRN);
 	printf("%sSpider-Man: Into The Spider-Verse (2018)\n", KGRN);
 	printf("%sSplit (2016)\n", KGRN);
 	printf("%sThe House (2017)\n", KGRN);
 	printf("%sThe Lego Movie 2: The Second Part (2019)\n", KGRN);
+	printf("%sThe Lion King (2019)\n", KGRN);
 	printf("%sToy Story 4 (2019)\n", KRED);
 	printf("%sUs (2019)\n", KGRN);
 	
