@@ -50,7 +50,7 @@ int main(){
 	printf("%sThe House (2017)\n", KGRN);
 	printf("%sThe Lego Movie 2: The Second Part (2019)\n", KGRN);
 	printf("%sThe Lion King (2019)\n", KGRN);
-	printf("%sToy Story 4 (2019)\n", KRED);
+	printf("%sToy Story 4 (2019)\n", KGRN);
 	printf("%sUs (2019)\n", KGRN);
 	printf("%sWhen We First Met (2018)\n", KGRN);
 	
