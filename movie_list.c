@@ -24,6 +24,7 @@ int main(){
 	printf("%sCold Pursuit (2019)\n", KGRN);
 	printf("%sDark Phoenix (2019)\n", KGRN);
 	printf("%sDragon Ball Super: Broly (2018)\n", KGRN);
+	printf("%sEl Camino: A Breaking Bad Movie (2019)\n", KGRN);
 	printf("%sFantastic Beasts: The Crimes of Grindelwald (2018)\n", KGRN);
 	printf("%sFast & Furious Presents: Hobbs & Shaw (2019)\n", KGRN);
 	printf("%sFocus (2015)\n", KGRN);
@@ -34,6 +35,7 @@ int main(){
 	printf("%sI Am Mother (2019)\n", KGRN);
 	printf("%sInstant Family (2018)\n", KGRN);
 	printf("%sJohnny English Strikes Again (2018)\n", KGRN);
+	printf("%sJoker (2019)\n", KGRN);
 	printf("%sMirai (2018)\n", KRED);
 	printf("%sMurder Mystery (2019)\n", KGRN);
 	printf("%sOnce Upon a Time... in Hollywood (2019)\n", KGRN);
