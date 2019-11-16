@@ -36,7 +36,7 @@ int main(){
 	printf("%sInstant Family (2018)\n", KGRN);
 	printf("%sJohnny English Strikes Again (2018)\n", KGRN);
 	printf("%sJoker (2019)\n", KGRN);
-	printf("%sMirai (2018)\n", KRED);
+	printf("%sMirai (2018)\n", KGRN);
 	printf("%sMurder Mystery (2019)\n", KGRN);
 	printf("%sOnce Upon a Time... in Hollywood (2019)\n", KGRN);
 	printf("%sOtherhood (2019)\n", KGRN);
