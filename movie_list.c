@@ -22,6 +22,7 @@ int main(){
 	printf("%sBrightburn (2019)\n", KGRN);
 	printf("%sCaptain Marvel (2019)\n", KGRN);
 	printf("%sCold Pursuit (2019)\n", KGRN);
+	printf("%sCrawl (2019)\n", KGRN);
 	printf("%sDark Phoenix (2019)\n", KGRN);
 	printf("%sDragon Ball Super: Broly (2018)\n", KGRN);
 	printf("%sEl Camino: A Breaking Bad Movie (2019)\n", KGRN);
