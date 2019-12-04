@@ -30,6 +30,7 @@ int main(){
 	printf("%sFast & Furious Presents: Hobbs & Shaw (2019)\n", KGRN);
 	printf("%sFocus (2015)\n", KGRN);
 	printf("%sFracture (2007)\n", KGRN);
+	printf("%sFrozen II (2019)\n", KGRN);
 	printf("%sGlass (2019)\n", KGRN);
 	printf("%sGodzilla: King of the Monsters (2019)\n", KGRN);
 	printf("%sHow to Train Your Dragon: The Hidden World (2019)\n", KRED);
@@ -44,6 +45,7 @@ int main(){
 	printf("%sPokémon Detective Pikachu (2019)\n", KGRN);
 	printf("%sPokémon The Movie: The Power of Us (2018)\n", KGRN);
 	printf("%sRalph Breaks the Internet (2018)\n", KGRN);
+	printf("%sReady or Not (2019)\n", KGRN);
 	printf("%sReplicas (2018)\n", KGRN);
 	printf("%sSearching (2018)\n", KGRN);
 	printf("%sShazam! (2019)\n", KGRN);
