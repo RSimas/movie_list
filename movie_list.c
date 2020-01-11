@@ -9,13 +9,19 @@ int main(){
 	
 	system("clear");
 	
+	printf("\n\n%sMovies watched in 2020:\n\n", KNRM);
+	
+	printf("%sBatman vs. Teenage Mutant Ninja Turtles (2019)\n", KRED);
+	printf("%sHow to Train Your Dragon: The Hidden World (2019)\n", KRED);
+	printf("%sLife of the Party (2018)\n", KGRN);
+	printf("%sThe Week Of (2018)\n", KGRN);
+	
 	printf("\n\n%sMovies watched in 2019:\n\n", KNRM);
 	
 	printf("%sAd Astra (2019)\n", KGRN);
 	printf("%sAladdin (2019)\n", KGRN);
 	printf("%sAquaman (2018)\n", KGRN);
 	printf("%sAvengers: Endgame (2019)\n", KGRN);
-	printf("%sBatman vs. Teenage Mutant Ninja Turtles (2019)\n", KRED);
 	printf("%sBen is Back (2018)\n", KGRN);
 	printf("%sBetween Two Ferns: The Movie(2019)\n", KGRN);
 	printf("%sBohemian Rhapsody (2018)\n", KGRN);
@@ -33,11 +39,12 @@ int main(){
 	printf("%sFrozen II (2019)\n", KGRN);
 	printf("%sGlass (2019)\n", KGRN);
 	printf("%sGodzilla: King of the Monsters (2019)\n", KGRN);
-	printf("%sHow to Train Your Dragon: The Hidden World (2019)\n", KRED);
+	printf("%sHush (2016)\n", KGRN);
 	printf("%sI Am Mother (2019)\n", KGRN);
 	printf("%sInstant Family (2018)\n", KGRN);
 	printf("%sJohnny English Strikes Again (2018)\n", KGRN);
 	printf("%sJoker (2019)\n", KGRN);
+	printf("%sMarriage Story (2019)\n", KGRN);
 	printf("%sMirai (2018)\n", KGRN);
 	printf("%sMurder Mystery (2019)\n", KGRN);
 	printf("%sOnce Upon a Time... in Hollywood (2019)\n", KGRN);
@@ -52,7 +59,9 @@ int main(){
 	printf("%sSpider-Man: Far From Home (2019)\n", KGRN);
 	printf("%sSpider-Man: Into the Spider-Verse (2018)\n", KGRN);
 	printf("%sSplit (2016)\n", KGRN);
+	printf("%sStar Wars: Episode IX – The Rise of Skywalker\n", KGRN);
 	printf("%sThe House (2017)\n", KGRN);
+	printf("%sThe Invention of Lying (2009)\n", KGRN);
 	printf("%sThe Lego Movie 2: The Second Part (2019)\n", KGRN);
 	printf("%sThe Lion King (2019)\n", KGRN);
 	printf("%sToy Story 4 (2019)\n", KGRN);
