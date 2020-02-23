@@ -11,10 +11,15 @@ int main(){
 	
 	printf("\n\n%sMovies watched in 2020:\n\n", KNRM);
 	
+	printf("%s1917 (2019)\n", KGRN);
 	printf("%sBatman vs. Teenage Mutant Ninja Turtles (2019)\n", KRED);
 	printf("%sFord v Ferrari (2019)\n", KGRN);
 	printf("%sHow to Train Your Dragon: The Hidden World (2019)\n", KRED);
+	printf("%sJumanji: The Next Level (2019)\n", KGRN);
 	printf("%sLife of the Party (2018)\n", KGRN);
+	printf("%sLittle Women (2019)\n", KGRN);
+	printf("%sParasite (2019)\n", KGRN);
+	printf("%sThe Call of the Wild (2020)\n", KGRN);
 	printf("%sThe Edge of Seventeen (2016)\n", KGRN);
 	printf("%sThe Week Of (2018)\n", KGRN);
 	
