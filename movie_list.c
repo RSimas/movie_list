@@ -12,23 +12,41 @@ int main(){
 	printf("\n\n%sMovies watched in 2020:\n\n", KNRM);
 	
 	printf("%s1917 (2019)\n", KGRN);
+	printf("%sA Quiet Place Part II\n", KRED);
 	printf("%sA Silent Voice (2017)\n", KRED);
 	printf("%sBatman vs. Teenage Mutant Ninja Turtles (2019)\n", KRED);
+	printf("%sBirds of Prey: And the Fantabulous Emancipation of One Harley Quinn (2020)\n", KRED);
+	printf("%sBlack Widow (2020)\n", KRED);
 	printf("%sBrooklyn (2015)\n", KRED);
 	printf("%sFord v Ferrari (2019)\n", KGRN);
+	printf("%sGodzilla vs. Kong (2020)\n", KRED);
+	printf("%sHalloween Kills (2020)\n", KRED);
 	printf("%sHow to Train Your Dragon: The Hidden World (2019)\n", KRED);
 	printf("%sJojo Rabbit (2019)\n" KRED);
 	printf("%sJumanji: The Next Level (2019)\n", KGRN);
+	printf("%sJungle Cruise (2020)\n", KRED);
 	printf("%sKnives Out (2019)\n", KGRN);
 	printf("%sLife of the Party (2018)\n", KGRN);
 	printf("%sLittle Women (2019)\n", KGRN);
+	printf("%sMulan (2020)\n", KRED);
+	printf("%sNo Time to Die (2020)\n", KRED);
+	printf("%sOnward (2020)\n", KRED);
 	printf("%sParasite (2019)\n", KGRN);
+	printf("%sPokémon The Movie: Coco (2020)\n", KRED);
+	printf("%sSonic the Hedgehog (2020)\n", KRED);
+	printf("%sSoul (2020)\n", KRED);
 	printf("%sSuperman: Red Son (2020)\n", KRED);
+	printf("%sTenet (2020)\n", KRED);
 	printf("%sThe Call of the Wild (2020)\n", KGRN);
 	printf("%sThe Edge of Seventeen (2016)\n", KGRN);
+	printf("%sThe Eternals (2020)\n", KRED);
+	printf("%sThe Invisible Man (2020)\n", KRED);
 	printf("%sThe Irishman (2019)\n", KRED);
 	printf("%sThe Week Of (2018)\n", KGRN);
+	printf("%sTop Gun (1986)\n", KRED);
+	printf("%sTop Gun: Maverick (2020)\n", KRED);
 	printf("%sWeathering with You (2019)\n", KRED);
+	printf("%sWonder Woman 1984 (2020)\n", KRED);
 	
 	printf("\n\n%sMovies watched in 2019:\n\n", KNRM);
 	
