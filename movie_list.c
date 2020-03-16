@@ -18,6 +18,7 @@ int main(){
 	printf("%sHow to Train Your Dragon: The Hidden World (2019)\n", KRED);
 	printf("%sJojo Rabbit (2019)\n" KRED);
 	printf("%sJumanji: The Next Level (2019)\n", KGRN);
+	printf("%sKnives Out (2019)\n", KGRN);
 	printf("%sLife of the Party (2018)\n", KGRN);
 	printf("%sLittle Women (2019)\n", KGRN);
 	printf("%sParasite (2019)\n", KGRN);
