@@ -24,7 +24,7 @@ int main(){
 	printf("%sGifted (2017)\n", KGRN);
 	printf("%sGodzilla vs. Kong (2020)\n", KRED);
 	printf("%sHalloween Kills (2020)\n", KRED);
-	printf("%sHow to Train Your Dragon: The Hidden World (2019)\n", KRED);
+	printf("%sHow to Train Your Dragon: The Hidden World (2019)\n", KGRN);
 	printf("%sJumanji: The Next Level (2019)\n", KGRN);
 	printf("%sJungle Cruise (2020)\n", KRED);
 	printf("%sKnives Out (2019)\n", KGRN);
