@@ -12,7 +12,7 @@ int main(){
 	printf("\n\n%sMovies watched in 2020:\n\n", KNRM);
 	
 	printf("%s1917 (2019)\n", KGRN);
-	printf("%sA Quiet Place Part II\n", KRED);
+	printf("%sA Quiet Place Part II (2020)\n", KRED);
 	printf("%sA Silent Voice (2017)\n", KRED);
 	printf("%sBatman vs. Teenage Mutant Ninja Turtles (2019)\n", KRED);
 	printf("%sBirds of Prey: And the Fantabulous Emancipation of One Harley Quinn (2020)\n", KGRN);
@@ -50,6 +50,7 @@ int main(){
 	printf("%sTop Gun: Maverick (2020)\n", KRED);
 	printf("%sWeathering with You (2019)\n", KRED);
 	printf("%sWonder Woman 1984 (2020)\n", KRED);
+	printf("%sZombieland: Double Tap (2019)\n", KGRN);
 	
 	printf("\n\n%sMovies watched in 2019:\n\n", KNRM);
 	
