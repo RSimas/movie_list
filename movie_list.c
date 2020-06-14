@@ -33,7 +33,7 @@ int main(){
 	printf("%sMulan (2020)\n", KRED);
 	printf("%sMy Spy (2020)\n", KGRN);
 	printf("%sNo Time to Die (2020)\n", KRED);
-	printf("%sOnward (2020)\n", KRED);
+	printf("%sOnward (2020)\n", KGRN);
 	printf("%sParasite (2019)\n", KGRN);
 	printf("%sPokémon The Movie: Coco (2020)\n", KRED);
 	printf("%sSonic the Hedgehog (2020)\n", KGRN);
@@ -44,6 +44,7 @@ int main(){
 	printf("%sThe Eternals (2020)\n", KRED);
 	printf("%sThe Invisible Man (2020)\n", KGRN);
 	printf("%sThe Irishman (2019)\n", KRED);
+	printf("%sThe Lego Ninjago Movie (2017)\n", KGRN);
 	printf("%sThe Silence (2019)\n", KGRN);
 	printf("%sThe Week Of (2018)\n", KGRN);
 	printf("%sTop Gun (1986)\n", KRED);
