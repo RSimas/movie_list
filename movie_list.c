@@ -17,9 +17,9 @@ int main(){
 	printf("%sBatman vs. Teenage Mutant Ninja Turtles (2019)\n", KRED);
 	printf("%sBirds of Prey: And the Fantabulous Emancipation of One Harley Quinn (2020)\n", KGRN);
 	printf("%sBlack Widow (2020)\n", KRED);
-	printf("%sBrooklyn (2015)\n", KRED);
 	printf("%sCreed (2015)\n", KGRN);
 	printf("%sCreed II (2018)\n", KGRN);
+        printf("%sEurovision Song Contest: The Story of Fire Saga (2020)\n", KGRN);
 	printf("%sFord v Ferrari (2019)\n", KGRN);
 	printf("%sGifted (2017)\n", KGRN);
 	printf("%sGodzilla vs. Kong (2020)\n", KRED);
