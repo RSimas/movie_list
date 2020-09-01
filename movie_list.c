@@ -15,9 +15,10 @@ int main(){
 	printf("%sA Quiet Place Part II (2020)\n", KRED);
 	printf("%sA Silent Voice (2017)\n", KRED);
 	printf("%sA Whisker Away (2020)\n", KGRN);
-	printf("%sBatman vs. Teenage Mutant Ninja Turtles (2019)\n", KRED);
 	printf("%sBirds of Prey: And the Fantabulous Emancipation of One Harley Quinn (2020)\n", KGRN);
 	printf("%sBlack Widow (2020)\n", KRED);
+	printf("%sBurnt (2015)\n", KGRN);
+	printf("%sCollateral (2004)\n", KGRN);
 	printf("%sCreed (2015)\n", KGRN);
 	printf("%sCreed II (2018)\n", KGRN);
 	printf("%sDigimon Adventure: Last Evolution Kizuna (2020)\n", KGRN);
@@ -40,7 +41,7 @@ int main(){
 	printf("%sPokémon The Movie: Coco (2020)\n", KRED);
 	printf("%sSonic the Hedgehog (2020)\n", KGRN);
 	printf("%sSoul (2020)\n", KRED);
-	printf("%sTenet (2020)\n", KRED);
+	printf("%sTenet (2020)\n", KGRN);
 	printf("%sThe Call of the Wild (2020)\n", KGRN);
 	printf("%sThe Edge of Seventeen (2016)\n", KGRN);
 	printf("%sThe Eternals (2020)\n", KRED);
