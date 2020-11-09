@@ -50,9 +50,10 @@ int main(){
 	printf("%sThe Lego Ninjago Movie (2017)\n", KGRN);
 	printf("%sThe Silence (2019)\n", KGRN);
 	printf("%sThe Week Of (2018)\n", KGRN);
+	printf("%sThis Is Where I Leave You (2014)\n", KGRN);
 	printf("%sTop Gun (1986)\n", KGRN);
 	printf("%sTop Gun: Maverick (2021)\n", KRED);
-	printf("%sWeathering with You (2019)\n", KRED);
+	printf("%sWeathering with You (2019)\n", KGRN);
 	printf("%sWhat to Expect When You're Expecting (2012)\n", KGRN);
 	printf("%sWonder Woman 1984 (2020)\n", KRED);
 	printf("%sZombieland: Double Tap (2019)\n", KGRN);
