@@ -33,7 +33,7 @@ int main(){
 	printf("%sKnives Out (2019)\n", KGRN);
 	printf("%sLife of the Party (2018)\n", KGRN);
 	printf("%sLittle Women (2019)\n", KGRN);
-	printf("%sMulan (2020)\n", KRED);
+	printf("%sMulan (2020)\n", KGRN);
 	printf("%sMy Spy (2020)\n", KGRN);
 	printf("%sNo Time to Die (2020)\n", KRED);
 	printf("%sOnward (2020)\n", KGRN);
