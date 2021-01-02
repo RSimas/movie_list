@@ -9,14 +9,22 @@ int main(){
 	
 	system("clear");
 	
+	printf("\n\n%sMovies watched in 2021:\n\n", KNRM);
+	printf("%sA Silent Voice (2017)\n", KRED);
+	printf("%sA Whisker Away (2020)\n", KRED);
+	printf("%sBlack Widow (2021)\n", KRED);
+	printf("%sDune (2021)\n", KRED);
+	printf("%sGodzilla vs. Kong (2021)\n", KRED);
+	printf("%sHalloween Kills (2021)\n", KRED);
+	printf("%sJungle Cruise (2021)\n", KRED);
+	printf("%sNo Time to Die (2021)\n", KRED);
+	printf("%sPokémon the Movie: Secrets of the Jungle (2020)\n", KRED);
+	printf("%sTop Gun: Maverick (2021)\n", KRED);
+	
 	printf("\n\n%sMovies watched in 2020:\n\n", KNRM);
 	
 	printf("%s1917 (2019)\n", KGRN);
-	printf("%sA Quiet Place Part II (2020)\n", KRED);
-	printf("%sA Silent Voice (2017)\n", KRED);
-	printf("%sA Whisker Away (2020)\n", KGRN);
 	printf("%sBirds of Prey: And the Fantabulous Emancipation of One Harley Quinn (2020)\n", KGRN);
-	printf("%sBlack Widow (2020)\n", KRED);
 	printf("%sBurnt (2015)\n", KGRN);
 	printf("%sCollateral (2004)\n", KGRN);
 	printf("%sCreed (2015)\n", KGRN);
@@ -25,35 +33,28 @@ int main(){
         printf("%sEurovision Song Contest: The Story of Fire Saga (2020)\n", KGRN);
 	printf("%sFord v Ferrari (2019)\n", KGRN);
 	printf("%sGifted (2017)\n", KGRN);
-	printf("%sGodzilla vs. Kong (2020)\n", KRED);
-	printf("%sHalloween Kills (2020)\n", KRED);
 	printf("%sHow to Train Your Dragon: The Hidden World (2019)\n", KGRN);
 	printf("%sHome Again (2017)\n", KGRN);
 	printf("%sJumanji: The Next Level (2019)\n", KGRN);
-	printf("%sJungle Cruise (2020)\n", KRED);
 	printf("%sKnives Out (2019)\n", KGRN);
 	printf("%sLife of the Party (2018)\n", KGRN);
 	printf("%sLittle Women (2019)\n", KGRN);
 	printf("%sMulan (2020)\n", KGRN);
 	printf("%sMy Spy (2020)\n", KGRN);
-	printf("%sNo Time to Die (2020)\n", KRED);
 	printf("%sOnward (2020)\n", KGRN);
 	printf("%sParasite (2019)\n", KGRN);
-	printf("%sPokémon The Movie: Coco (2020)\n", KRED);
 	printf("%sSonic the Hedgehog (2020)\n", KGRN);
 	printf("%sSoul (2020)\n", KGRN);
 	printf("%sTenet (2020)\n", KGRN);
 	printf("%sThe Call of the Wild (2020)\n", KGRN);
 	printf("%sThe Edge of Seventeen (2016)\n", KGRN);
-	printf("%sThe Eternals (2020)\n", KRED);
 	printf("%sThe Invisible Man (2020)\n", KGRN);
-	printf("%sThe Irishman (2019)\n", KRED);
 	printf("%sThe Lego Ninjago Movie (2017)\n", KGRN);
+	printf("%sThe New Mutants (2020)\n", KGRN);
 	printf("%sThe Silence (2019)\n", KGRN);
 	printf("%sThe Week Of (2018)\n", KGRN);
 	printf("%sThis Is Where I Leave You (2014)\n", KGRN);
 	printf("%sTop Gun (1986)\n", KGRN);
-	printf("%sTop Gun: Maverick (2021)\n", KRED);
 	printf("%sWeathering with You (2019)\n", KGRN);
 	printf("%sWhat to Expect When You're Expecting (2012)\n", KGRN);
 	printf("%sWonder Woman 1984 (2020)\n", KGRN);
