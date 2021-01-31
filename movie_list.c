@@ -11,7 +11,7 @@ int main(){
 	
 	printf("\n\n%sMovies watched in 2021:\n\n", KNRM);
 	printf("%sA Silent Voice (2017)\n", KRED);
-	printf("%sA Whisker Away (2020)\n", KRED);
+	printf("%sA Whisker Away (2020)\n", KGRN);
 	printf("%sBlack Widow (2021)\n", KRED);
 	printf("%sDune (2021)\n", KRED);
 	printf("%sGodzilla vs. Kong (2021)\n", KRED);
