@@ -17,6 +17,7 @@ int main(){
 	printf("%sGodzilla vs. Kong (2021)\n", KRED);
 	printf("%sHalloween Kills (2021)\n", KRED);
 	printf("%sJungle Cruise (2021)\n", KRED);
+	printf("%sLittle Miss Sunshine (2006)\n", KGRN);
 	printf("%sNo Time to Die (2021)\n", KRED);
 	printf("%sPokémon the Movie: Secrets of the Jungle (2020)\n", KRED);
 	printf("%sTop Gun: Maverick (2021)\n", KRED);
