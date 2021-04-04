@@ -14,13 +14,15 @@ int main(){
 	printf("%sA Whisker Away (2020)\n", KGRN);
 	printf("%sBlack Widow (2021)\n", KRED);
 	printf("%sDune (2021)\n", KRED);
-	printf("%sGodzilla vs. Kong (2021)\n", KRED);
+	printf("%sGodzilla vs. Kong (2021)\n", KGRN);
 	printf("%sHalloween Kills (2021)\n", KRED);
+	printf("%sJudas and the Black Messiah (2021)\n", KGRN);
 	printf("%sJungle Cruise (2021)\n", KRED);
 	printf("%sLittle Miss Sunshine (2006)\n", KGRN);
 	printf("%sNo Time to Die (2021)\n", KRED);
 	printf("%sPalm Springs (2020)\n", KGRN);
 	printf("%sPokémon the Movie: Secrets of the Jungle (2020)\n", KRED);
+	printf("%sPromising Young Woman (2020)\n", KGRN);
 	printf("%sRascal Does Not Dream of a Dreaming Girl (2019)\n", KGRN);
 	printf("%sTop Gun: Maverick (2021)\n", KRED);
 	
