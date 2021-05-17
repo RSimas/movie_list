@@ -13,7 +13,9 @@ int main(){
 	printf("%sA Quiet Place Part II (2020)\n", KRED);
 	printf("%sA Silent Voice (2017)\n", KRED);
 	printf("%sA Whisker Away (2020)\n", KGRN);
+	printf("%sAmmonite (2020)\n", KRED);
 	printf("%sArmy of the Dead (2021)\n", KRED);
+	printf("%sAtonement (2007)\n", KRED);
 	printf("%sBlack Widow (2021)\n", KRED);
 	printf("%sDon't Look Up (2021)\n", KRED);
 	printf("%sDune (2021)\n", KRED);
@@ -23,8 +25,10 @@ int main(){
 	printf("%sHappy Death Day 2U (2019)\n", KRED);
 	printf("%sJudas and the Black Messiah (2021)\n", KGRN);
 	printf("%sJungle Cruise (2021)\n", KRED);
+	printf("%sZack Snyder's Justice League (2021)\n", KRED);
 	printf("%sLittle Miss Sunshine (2006)\n", KGRN);
 	printf("%sLuca (2021)\n", KRED);
+	printf("%sMatch Point (2005)\n", KRED);
 	printf("%sMinari (2020)\n", KGRN);
 	printf("%sNo Time to Die (2021)\n", KRED);
 	printf("%sPalm Springs (2020)\n", KGRN);
