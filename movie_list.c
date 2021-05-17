@@ -25,6 +25,8 @@ int main(){
 	printf("%sPokémon the Movie: Secrets of the Jungle (2020)\n", KRED);
 	printf("%sPromising Young Woman (2020)\n", KGRN);
 	printf("%sRascal Does Not Dream of a Dreaming Girl (2019)\n", KGRN);
+	printf("%sSpy (2015)\n", KGRN);
+	printf("%sThe Father (2020)\n", KGRN);
 	printf("%sTop Gun: Maverick (2021)\n", KRED);
 	
 	printf("\n\n%sMovies watched in 2020:\n\n", KNRM);
@@ -39,6 +41,7 @@ int main(){
         printf("%sEurovision Song Contest: The Story of Fire Saga (2020)\n", KGRN);
 	printf("%sFord v Ferrari (2019)\n", KGRN);
 	printf("%sGifted (2017)\n", KGRN);
+	printf("%sHappy Death Day (2017)\n", KGRN);
 	printf("%sHow to Train Your Dragon: The Hidden World (2019)\n", KGRN);
 	printf("%sHome Again (2017)\n", KGRN);
 	printf("%sJumanji: The Next Level (2019)\n", KGRN);
