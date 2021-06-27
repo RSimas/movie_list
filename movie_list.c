@@ -10,7 +10,7 @@ int main(){
 	system("clear");
 	
 	printf("\n\n%sMovies watched in 2021:\n\n", KNRM);
-	printf("%sA Quiet Place Part II (2020)\n", KRED);
+	printf("%sA Quiet Place Part II (2020)\n", KGRN);
 	printf("%sA Silent Voice (2017)\n", KRED);
 	printf("%sA Whisker Away (2020)\n", KGRN);
 	printf("%sAmmonite (2020)\n", KRED);
@@ -38,7 +38,7 @@ int main(){
 	printf("%sSpy (2015)\n", KGRN);
 	printf("%sThe Father (2020)\n", KGRN);
 	printf("%sThe Hitman's Wife's Bodyguard (2021)\n", KRED);
-	printf("%sThe Map of Tiny Perfect Things (2021)\n", KRED);
+	printf("%sThe Map of Tiny Perfect Things (2021)\n", KGRN);
 	printf("%sThe Suicide Squad (2021)\n", KRED);
 	printf("%sThe Trial of the Chicago 7 (2020)\n", KGRN);
 	printf("%sTop Gun: Maverick (2021)\n", KRED);
