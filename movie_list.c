@@ -16,7 +16,7 @@ int main(){
 	printf("%sAmmonite (2020)\n", KRED);
 	printf("%sArmy of the Dead (2021)\n", KGRN);
 	printf("%sAtonement (2007)\n", KRED);
-	printf("%sBlack Widow (2021)\n", KRED);
+	printf("%sBlack Widow (2021)\n", KGRN);
 	printf("%sDon't Look Up (2021)\n", KRED);
 	printf("%sDune (2021)\n", KRED);
 	printf("%sFreaky (2020)\n", KGRN);
@@ -26,7 +26,7 @@ int main(){
 	printf("%sJudas and the Black Messiah (2021)\n", KGRN);
 	printf("%sJungle Cruise (2021)\n", KRED);
 	printf("%sLittle Miss Sunshine (2006)\n", KGRN);
-	printf("%sLuca (2021)\n", KRED);
+	printf("%sLuca (2021)\n", KGRN);
 	printf("%sMatch Point (2005)\n", KRED);
 	printf("%sMinari (2020)\n", KGRN);
 	printf("%sNo Time to Die (2021)\n", KRED);
