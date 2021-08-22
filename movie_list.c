@@ -19,6 +19,7 @@ int main(){
 	printf("%sBlack Widow (2021)\n", KGRN);
 	printf("%sDon't Look Up (2021)\n", KRED);
 	printf("%sDune (2021)\n", KRED);
+	printf("%sFatherhood (2021)\n", KGRN);
 	printf("%sFreaky (2020)\n", KGRN);
 	printf("%sFullmetal Alchemist: The Sacred Star of Milos (2011)\n", KGRN);
 	printf("%sGodzilla vs. Kong (2021)\n", KGRN);
@@ -39,6 +40,7 @@ int main(){
 	printf("%sRaya and the Last Dragon (2021)\n", KGRN);
 	printf("%sShang-Chi and the Legend of the Ten Rings (2021)\n", KRED);
 	printf("%sSpy (2015)\n", KGRN);
+	printf("%sSweet Girl (2021)\n", KGRN);
 	printf("%sThe Father (2020)\n", KGRN);
 	printf("%sThe Hitman's Wife's Bodyguard (2021)\n", KGRN
 	printf("%sThe Map of Tiny Perfect Things (2021)\n", KGRN);
