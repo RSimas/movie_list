@@ -44,6 +44,7 @@ int main(){
 	printf("%sThe Father (2020)\n", KGRN);
 	printf("%sThe Hitman's Wife's Bodyguard (2021)\n", KGRN
 	printf("%sThe Map of Tiny Perfect Things (2021)\n", KGRN);
+	printf("%sSound of Metal (2019)\n", KGRN);
 	printf("%sThe Suicide Squad (2021)\n", KGRN);
 	printf("%sThe Trial of the Chicago 7 (2020)\n", KGRN);
 	printf("%sTop Gun: Maverick (2021)\n", KRED);
