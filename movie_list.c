@@ -25,16 +25,17 @@ int main(){
 	printf("%sFree Guy (2021)\n", KGRN);
 	printf("%sFullmetal Alchemist: The Sacred Star of Milos (2011)\n", KGRN);
 	printf("%sGodzilla vs. Kong (2021)\n", KGRN);
-	printf("%sHalloween Kills (2021)\n", KRED);
+	printf("%sHalloween Kills (2021)\n", KGRN);
 	printf("%sHappy Death Day 2U (2019)\n", KRED);
 	printf("%sI Care a Lot (2020)\n", KGRN);
 	printf("%sJudas and the Black Messiah (2021)\n", KGRN);
 	printf("%sJungle Cruise (2021)\n", KGRN);
+	printf("%sLamb (2021)\n", KGRN);
 	printf("%sLittle Miss Sunshine (2006)\n", KGRN);
 	printf("%sLuca (2021)\n", KGRN);
 	printf("%sMatch Point (2005)\n", KRED);
 	printf("%sMinari (2020)\n", KGRN);
-	printf("%sNo Time to Die (2021)\n", KRED);
+	printf("%sNo Time to Die (2021)\n", KGRN);
 	printf("%sPalm Springs (2020)\n", KGRN);
 	printf("%sPokémon the Movie: Secrets of the Jungle (2020)\n", KRED);
 	printf("%sPromising Young Woman (2020)\n", KGRN);
@@ -45,11 +46,13 @@ int main(){
 	printf("%sSpy (2015)\n", KGRN);
 	printf("%sSweet Girl (2021)\n", KGRN);
 	printf("%sThe Father (2020)\n", KGRN);
+	printf("%sThe Guilty (2021)\n", KGRN);
 	printf("%sThe Hitman's Wife's Bodyguard (2021)\n", KGRN
 	printf("%sThe Map of Tiny Perfect Things (2021)\n", KGRN);
 	printf("%sThe Upside (2017)\n", KGRN);
 	printf("%sSound of Metal (2019)\n", KGRN);
 	printf("%sThe Suicide Squad (2021)\n", KGRN);
+	printf("%sThe Tomorrow War (2021)\n", KGRN);
 	printf("%sThe Trial of the Chicago 7 (2020)\n", KGRN);
 	printf("%sTop Gun: Maverick (2021)\n", KRED);
 	printf("%sVenom: Let There Be Carnage (2021)\n", KRED);
