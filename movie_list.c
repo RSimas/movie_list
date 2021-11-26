@@ -41,8 +41,9 @@ int main(){
 	printf("%sPromising Young Woman (2020)\n", KGRN);
 	printf("%sRascal Does Not Dream of a Dreaming Girl (2019)\n", KGRN);
 	printf("%sRaya and the Last Dragon (2021)\n", KGRN);
+	printf("%sRed Notice (2021)\n", KGRN);
 	printf("%sRun (2020)\n", KGRN);
-	printf("%sShang-Chi and the Legend of the Ten Rings (2021)\n", KRED);
+	printf("%sShang-Chi and the Legend of the Ten Rings (2021)\n", KGRN);
 	printf("%sSpy (2015)\n", KGRN);
 	printf("%sSweet Girl (2021)\n", KGRN);
 	printf("%sThe Father (2020)\n", KGRN);
