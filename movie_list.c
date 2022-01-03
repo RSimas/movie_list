@@ -538,7 +538,7 @@ int main(){
 	printf("%sTangled (2010)\n", KGRN);
 	printf("%sTeenage Mutant Ninja Turtles (2014)\n", KGRN);
 	printf("%sTerminator 2: Judgment Day (1991)\n", KGRN);
-	printf("%sThe Amazing Spiderman 2 (2014)\n", KGRN);
+	printf("%sThe Amazing Spider-Man 2 (2014)\n", KGRN);
 	printf("%sThe Call (2013)\n", KGRN);
 	printf("%sThe Campaign (2012)\n", KGRN);
 	printf("%sThe Croods (2013)\n", KGRN);
