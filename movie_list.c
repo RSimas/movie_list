@@ -9,24 +9,36 @@ int main(){
 	
 	system("clear");
 	
-	printf("\n\n%sMovies watched in 2021:\n\n", KNRM);
-	printf("%sA Quiet Place Part II (2020)\n", KGRN);
+	printf("\n\n%sMovies watched in 2022:\n\n", KNRM);
+	
 	printf("%sA Silent Voice (2017)\n", KRED);
-	printf("%sA Whisker Away (2020)\n", KGRN);
 	printf("%sAmmonite (2020)\n", KRED);
-	printf("%sArmy of the Dead (2021)\n", KGRN);
 	printf("%sAtonement (2007)\n", KRED);
+	printf("%sDon't Look Up (2021)\n", KRED);
+	printf("%sEncanto (2021)\n", KGRN);
+	printf("%sEternals (2021)\n", KRED);
+	printf("%sHappy Death Day 2U (2019)\n", KRED);
+	printf("%sJojo Rabbit (2019)\n", KRED);
+	printf("%sLast Night in Soho (2021)\n", KRED);
+	printf("%sMatch Point (2005)\n", KRED);
+	printf("%sSpider-Man: No Way Home (2021)\n", KRED);
+	printf("%sTop Gun: Maverick (2021)\n", KRED);
+	printf("%sZack Snyder's Justice League (2021)\n", KRED);
+	
+	printf("\n\n%sMovies watched in 2021:\n\n", KNRM);
+	
+	printf("%sA Quiet Place Part II (2020)\n", KGRN);
+	printf("%sA Whisker Away (2020)\n", KGRN);
+	printf("%sArmy of the Dead (2021)\n", KGRN);
 	printf("%sBlack Widow (2021)\n", KGRN);
 	printf("%sDon't Breathe 2 (2021)\n", KGRN);
-	printf("%sDon't Look Up (2021)\n", KRED);
-	printf("%sDune (2021)\n", KRED);
+	printf("%sDune (2021)\n", KGRN);
 	printf("%sFatherhood (2021)\n", KGRN);
 	printf("%sFreaky (2020)\n", KGRN);
 	printf("%sFree Guy (2021)\n", KGRN);
 	printf("%sFullmetal Alchemist: The Sacred Star of Milos (2011)\n", KGRN);
 	printf("%sGodzilla vs. Kong (2021)\n", KGRN);
 	printf("%sHalloween Kills (2021)\n", KGRN);
-	printf("%sHappy Death Day 2U (2019)\n", KRED);
 	printf("%sHereafter (2010)\n", KGRN);
 	printf("%sI Care a Lot (2020)\n", KGRN);
 	printf("%sJudas and the Black Messiah (2021)\n", KGRN);
@@ -34,11 +46,9 @@ int main(){
 	printf("%sLamb (2021)\n", KGRN);
 	printf("%sLittle Miss Sunshine (2006)\n", KGRN);
 	printf("%sLuca (2021)\n", KGRN);
-	printf("%sMatch Point (2005)\n", KRED);
 	printf("%sMinari (2020)\n", KGRN);
 	printf("%sNo Time to Die (2021)\n", KGRN);
 	printf("%sPalm Springs (2020)\n", KGRN);
-	printf("%sPokémon the Movie: Secrets of the Jungle (2020)\n", KRED);
 	printf("%sPromising Young Woman (2020)\n", KGRN);
 	printf("%sRascal Does Not Dream of a Dreaming Girl (2019)\n", KGRN);
 	printf("%sRaya and the Last Dragon (2021)\n", KGRN);
@@ -58,9 +68,7 @@ int main(){
 	printf("%sThe Suicide Squad (2021)\n", KGRN);
 	printf("%sThe Tomorrow War (2021)\n", KGRN);
 	printf("%sThe Trial of the Chicago 7 (2020)\n", KGRN);
-	printf("%sTop Gun: Maverick (2021)\n", KRED);
 	printf("%sVenom: Let There Be Carnage (2021)\n", KGRN);
-	printf("%sZack Snyder's Justice League (2021)\n", KRED);
 	
 	printf("\n\n%sMovies watched in 2020:\n\n", KNRM);
 	
