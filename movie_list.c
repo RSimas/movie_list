@@ -14,15 +14,15 @@ int main(){
 	printf("%sA Silent Voice (2017)\n", KRED);
 	printf("%sAmmonite (2020)\n", KRED);
 	printf("%sAtonement (2007)\n", KRED);
-	printf("%sDon't Look Up (2021)\n", KRED);
+	printf("%sDon't Look Up (2021)\n", KGRN);
 	printf("%sEncanto (2021)\n", KGRN);
-	printf("%sEternals (2021)\n", KRED);
+	printf("%sEternals (2021)\n", KGRN);
 	printf("%sHappy Death Day 2U (2019)\n", KRED);
-	printf("%sJojo Rabbit (2019)\n", KRED);
+	printf("%sJojo Rabbit (2019)\n", KGRN);
 	printf("%sLast Night in Soho (2021)\n", KRED);
 	printf("%sMatch Point (2005)\n", KRED);
 	printf("%sSpider-Man: No Way Home (2021)\n", KRED);
-	printf("%sTop Gun: Maverick (2021)\n", KRED);
+	printf("%sTop Gun: Maverick (2022)\n", KRED);
 	printf("%sZack Snyder's Justice League (2021)\n", KRED);
 	
 	printf("\n\n%sMovies watched in 2021:\n\n", KNRM);
