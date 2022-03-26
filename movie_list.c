@@ -14,16 +14,22 @@ int main(){
 	printf("%sA Silent Voice (2017)\n", KRED);
 	printf("%sAmmonite (2020)\n", KRED);
 	printf("%sAtonement (2007)\n", KRED);
+	printf("%sDoctor Strange in the Multiverse of Madness (2022)\n", KRED);
 	printf("%sDon't Look Up (2021)\n", KGRN);
 	printf("%sEncanto (2021)\n", KGRN);
 	printf("%sEternals (2021)\n", KGRN);
 	printf("%sHappy Death Day 2U (2019)\n", KRED);
 	printf("%sJojo Rabbit (2019)\n", KGRN);
+	printf("%sJurassic World: Dominion (2022)\n", KRED);
 	printf("%sLast Night in Soho (2021)\n", KRED);
 	printf("%sMatch Point (2005)\n", KRED);
-	printf("%sSpider-Man: No Way Home (2021)\n", KRED);
+	printf("%sScream (2022)\n", KGRN);
+	printf("%sSpider-Man: No Way Home (2021)\n", KGRN);
 	printf("%sThe Matrix Resurrections (2021)\n", KGRN);
+	printf("%sThor: Love and Thunder (2022)\n", KRED);
 	printf("%sTop Gun: Maverick (2022)\n", KRED);
+	printf("%sTurning Red (2022)\n", KGRN);
+	printf("%sUncharted (2022)\n", KRED);
 	printf("%sZack Snyder's Justice League (2021)\n", KRED);
 	
 	printf("\n\n%sMovies watched in 2021:\n\n", KNRM);
@@ -56,6 +62,7 @@ int main(){
 	printf("%sRed Notice (2021)\n", KGRN);
 	printf("%sRun (2020)\n", KGRN);
 	printf("%sShang-Chi and the Legend of the Ten Rings (2021)\n", KGRN);
+	printf("%sSound of Metal (2019)\n", KGRN);
 	printf("%sSpy (2015)\n", KGRN);
 	printf("%sSweet Girl (2021)\n", KGRN);
 	printf("%sThe Equalizer (2014)\n", KGRN);
@@ -65,7 +72,6 @@ int main(){
 	printf("%sThe Last Duel (2021)\n", KGRN);
 	printf("%sThe Map of Tiny Perfect Things (2021)\n", KGRN);
 	printf("%sThe Upside (2017)\n", KGRN);
-	printf("%sSound of Metal (2019)\n", KGRN);
 	printf("%sThe Suicide Squad (2021)\n", KGRN);
 	printf("%sThe Tomorrow War (2021)\n", KGRN);
 	printf("%sThe Trial of the Chicago 7 (2020)\n", KGRN);
