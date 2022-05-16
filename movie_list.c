@@ -29,6 +29,7 @@ int main(){
 	printf("%sSpider-Man: No Way Home (2021)\n", KGRN);
 	printf("%sThe Adam Project (2022)\n", KGRN);
 	printf("%sThe Batman (2022)\n", KGRN);
+	printf*"%sThe Fundamentals of Caring (2016)\n", KGRN);
 	printf("%sThe Matrix Resurrections (2021)\n", KGRN);
 	printf("%sThor: Love and Thunder (2022)\n", KRED);
 	printf("%sTop Gun: Maverick (2022)\n", KRED);
