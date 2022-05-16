@@ -14,7 +14,9 @@ int main(){
 	printf("%sA Silent Voice (2017)\n", KRED);
 	printf("%sAmmonite (2020)\n", KRED);
 	printf("%sAtonement (2007)\n", KRED);
+	printf("%sDeath on the Nile (2022)\n", KGRN);
 	printf("%sDoctor Strange in the Multiverse of Madness (2022)\n", KRED);
+	printf("%sDog (2022)\n", KGRN);
 	printf("%sDon't Look Up (2021)\n", KGRN);
 	printf("%sEncanto (2021)\n", KGRN);
 	printf("%sEternals (2021)\n", KGRN);
@@ -25,6 +27,8 @@ int main(){
 	printf("%sMatch Point (2005)\n", KRED);
 	printf("%sScream (2022)\n", KGRN);
 	printf("%sSpider-Man: No Way Home (2021)\n", KGRN);
+	printf("%sThe Adam Project (2022)\n", KGRN);
+	printf("%sThe Batman (2022)\n", KGRN);
 	printf("%sThe Matrix Resurrections (2021)\n", KGRN);
 	printf("%sThor: Love and Thunder (2022)\n", KRED);
 	printf("%sTop Gun: Maverick (2022)\n", KRED);
