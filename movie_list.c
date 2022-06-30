@@ -15,7 +15,7 @@ int main(){
 	printf("%sAmmonite (2020)\n", KRED);
 	printf("%sAtonement (2007)\n", KRED);
 	printf("%sDeath on the Nile (2022)\n", KGRN);
-	printf("%sDoctor Strange in the Multiverse of Madness (2022)\n", KRED);
+	printf("%sDoctor Strange in the Multiverse of Madness (2022)\n", KGRN);
 	printf("%sDog (2022)\n", KGRN);
 	printf("%sDon't Look Up (2021)\n", KGRN);
 	printf("%sEncanto (2021)\n", KGRN);
@@ -25,16 +25,18 @@ int main(){
 	printf("%sJurassic World: Dominion (2022)\n", KRED);
 	printf("%sLast Night in Soho (2021)\n", KRED);
 	printf("%sMatch Point (2005)\n", KRED);
+	printf("%sMemory (2022)\n", KGRN);
 	printf("%sScream (2022)\n", KGRN);
 	printf("%sSpider-Man: No Way Home (2021)\n", KGRN);
 	printf("%sThe Adam Project (2022)\n", KGRN);
 	printf("%sThe Batman (2022)\n", KGRN);
 	printf*"%sThe Fundamentals of Caring (2016)\n", KGRN);
 	printf("%sThe Matrix Resurrections (2021)\n", KGRN);
+	printf("%sThe Unbearable Weight of Massive Talent (2022)\n", KGRN);
 	printf("%sThor: Love and Thunder (2022)\n", KRED);
 	printf("%sTop Gun: Maverick (2022)\n", KRED);
 	printf("%sTurning Red (2022)\n", KGRN);
-	printf("%sUncharted (2022)\n", KRED);
+	printf("%sUncharted (2022)\n", KGRN);
 	printf("%sZack Snyder's Justice League (2021)\n", KRED);
 	
 	printf("\n\n%sMovies watched in 2021:\n\n", KNRM);
