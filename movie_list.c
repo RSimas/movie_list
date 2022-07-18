@@ -20,9 +20,10 @@ int main(){
 	printf("%sDon't Look Up (2021)\n", KGRN);
 	printf("%sEncanto (2021)\n", KGRN);
 	printf("%sEternals (2021)\n", KGRN);
+	printf("%sEverything Everywhere All at Once (2022)\n". KGRN);
 	printf("%sHappy Death Day 2U (2019)\n", KRED);
 	printf("%sJojo Rabbit (2019)\n", KGRN);
-	printf("%sJurassic World: Dominion (2022)\n", KRED);
+	printf("%sJurassic World: Dominion (2022)\n", KGRN);
 	printf("%sLast Night in Soho (2021)\n", KRED);
 	printf("%sMatch Point (2005)\n", KRED);
 	printf("%sMemory (2022)\n", KGRN);
